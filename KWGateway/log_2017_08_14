@@ -1,0 +1,189 @@
+####################################################
+log history open time: 2017/08/14 14:36:33
+####################################################
+(I)Configure] *** database configuration
+(I)Configure] *** gateway configuration
+(I)Configure] *** context-awareness configuration
+(I)Configure] *** sensor configuration
+(I)Configure] *** home appliance configuration
+(I)Configure] *** service configuration
+####################################################
+log history open time: 2017/08/14 14:37:10
+####################################################
+(I)Configure] *** database configuration
+(I)Configure] *** gateway configuration
+(I)Configure] *** context-awareness configuration
+(I)Configure] *** sensor configuration
+(I)Configure] *** home appliance configuration
+(I)Configure] *** service configuration
+####################################################
+log history open time: 2017/08/14 14:38:29
+####################################################
+(I)Configure] *** database configuration
+(I)Configure] *** gateway configuration
+(I)Configure] *** context-awareness configuration
+(I)Configure] *** sensor configuration
+(I)Configure] *** home appliance configuration
+(I)Configure] *** service configuration
+####################################################
+log history open time: 2017/08/14 14:39:04
+####################################################
+(I)Configure] *** database configuration
+(I)Configure] *** gateway configuration
+(I)Configure] *** context-awareness configuration
+(I)Configure] *** sensor configuration
+(I)Configure] *** home appliance configuration
+(I)Configure] *** service configuration
+####################################################
+log history open time: 2017/08/14 14:40:12
+####################################################
+(I)Configure] *** database configuration
+(I)Configure] *** gateway configuration
+(I)Configure] *** context-awareness configuration
+(I)Configure] *** sensor configuration
+(I)Configure] *** home appliance configuration
+(I)Configure] *** service configuration
+####################################################
+log history open time: 2017/08/14 14:40:55
+####################################################
+(I)Configure] *** database configuration
+(I)Configure] *** gateway configuration
+(I)Configure] *** context-awareness configuration
+(I)Configure] *** sensor configuration
+(I)Configure] *** home appliance configuration
+(I)Configure] *** service configuration
+(D)DAOGateway] Gateway [gwid=KW_GATEWAY_FOR_GJ, bd=kw-building, flr=6, lct=home, rt=2017-08-09 15:25:28.0]
+(I)GWProcess] gateway info.: Gateway [gwid=KW_GATEWAY_FOR_GJ, bd=kw-building, flr=6, lct=home, rt=2017-08-09 15:25:28.0]
+(I)ContextAwareness] success to set weka instance: arff/home/AirConditionControlService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-accs-1, svnm=AirConditionControlService, svvs=0.0.1, svif=null, ctg=env, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/EnvironmentControlService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-ecs-2, svnm=EnvironmentControlService, svvs=0.0.1, svif=null, ctg=env, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/LeaveToWorkService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-ltws-4, svnm=LeaveToWorkService, svvs=0.0.1, svif=null, ctg=eng, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/MirrorTVService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-mtvs-6, svnm=MirrorTVService, svvs=0.0.1, svif=null, ctg=ct, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/SleepWakeupService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-sws-9, svnm=SleepWakeupService, svvs=0.0.1, svif=null, ctg=cnt, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/MusicPlayService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-mps-7, svnm=MusicPlayService, svvs=0.0.1, svif=null, ctg=enj, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/WatchTVService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-wtvs-10, svnm=WatchTVService, svvs=0.0.1, svif=null, ctg=env, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/LightService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-lsgs-5, svnm=LightSmartGridService, svvs=0.0.1, svif=null, ctg=eng, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/GoToWorkService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-gtws-3, svnm=GoToWorkService, svvs=0.0.1, svif=null, ctg=eng, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/HeaterControlService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-hcs-10, svnm=HeaterControlService, svvs=0.0.1, svif=null, ctg=env, svtp=arff, rt=null]
+(C)DAOUser] 
+### Error updating database.  Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01058829549' for key 'PRIMARY'
+### The error may involve KWGATEWAY.insert_user-Inline
+### The error occurred while setting parameters
+### SQL: INSERT INTO user (    mphnb,    name,    afl,    ofc,    type,    tagid,    gwid)   VALUES (    ?,    ?,    ?,    ?,    ?,    ?,    ?)
+### Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01058829549' for key 'PRIMARY'
+(C)DAOUser] 
+### Error updating database.  Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01038395471' for key 'PRIMARY'
+### The error may involve KWGATEWAY.insert_user-Inline
+### The error occurred while setting parameters
+### SQL: INSERT INTO user (    mphnb,    name,    afl,    ofc,    type,    tagid,    gwid)   VALUES (    ?,    ?,    ?,    ?,    ?,    ?,    ?)
+### Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01038395471' for key 'PRIMARY'
+(C)DAOUser] 
+### Error updating database.  Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01048800311' for key 'PRIMARY'
+### The error may involve KWGATEWAY.insert_user-Inline
+### The error occurred while setting parameters
+### SQL: INSERT INTO user (    mphnb,    name,    afl,    ofc,    type,    tagid,    gwid)   VALUES (    ?,    ?,    ?,    ?,    ?,    ?,    ?)
+### Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01048800311' for key 'PRIMARY'
+(I)GWProcess] start communication
+(D)BMSReceiver] err: Connection refused: connect
+(D)MashupFileReceiver] err: Connection refused: connect
+(D)HAClientReceiver] err: Connection refused: connect
+(D)MashupReceiver] err: Connection refused: connect
+####################################################
+log history open time: 2017/08/14 14:42:11
+####################################################
+(I)Configure] *** database configuration
+(I)Configure] *** gateway configuration
+(I)Configure] *** context-awareness configuration
+(I)Configure] *** sensor configuration
+(I)Configure] *** home appliance configuration
+(I)Configure] *** service configuration
+(D)DAOGateway] Gateway [gwid=KW_GATEWAY_FOR_GJ, bd=kw-building, flr=6, lct=home, rt=2017-08-09 15:25:28.0]
+(I)GWProcess] gateway info.: Gateway [gwid=KW_GATEWAY_FOR_GJ, bd=kw-building, flr=6, lct=home, rt=2017-08-09 15:25:28.0]
+(I)ContextAwareness] success to set weka instance: arff/home/AirConditionControlService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-accs-1, svnm=AirConditionControlService, svvs=0.0.1, svif=null, ctg=env, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/EnvironmentControlService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-ecs-2, svnm=EnvironmentControlService, svvs=0.0.1, svif=null, ctg=env, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/LeaveToWorkService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-ltws-4, svnm=LeaveToWorkService, svvs=0.0.1, svif=null, ctg=eng, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/MirrorTVService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-mtvs-6, svnm=MirrorTVService, svvs=0.0.1, svif=null, ctg=ct, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/SleepWakeupService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-sws-9, svnm=SleepWakeupService, svvs=0.0.1, svif=null, ctg=cnt, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/MusicPlayService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-mps-7, svnm=MusicPlayService, svvs=0.0.1, svif=null, ctg=enj, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/WatchTVService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-wtvs-10, svnm=WatchTVService, svvs=0.0.1, svif=null, ctg=env, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/LightService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-lsgs-5, svnm=LightSmartGridService, svvs=0.0.1, svif=null, ctg=eng, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/GoToWorkService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-gtws-3, svnm=GoToWorkService, svvs=0.0.1, svif=null, ctg=eng, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/HeaterControlService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-hcs-10, svnm=HeaterControlService, svvs=0.0.1, svif=null, ctg=env, svtp=arff, rt=null]
+(C)DAOUser] 
+### Error updating database.  Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01058829549' for key 'PRIMARY'
+### The error may involve KWGATEWAY.insert_user-Inline
+### The error occurred while setting parameters
+### SQL: INSERT INTO user (    mphnb,    name,    afl,    ofc,    type,    tagid,    gwid)   VALUES (    ?,    ?,    ?,    ?,    ?,    ?,    ?)
+### Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01058829549' for key 'PRIMARY'
+(C)DAOUser] 
+### Error updating database.  Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01038395471' for key 'PRIMARY'
+### The error may involve KWGATEWAY.insert_user-Inline
+### The error occurred while setting parameters
+### SQL: INSERT INTO user (    mphnb,    name,    afl,    ofc,    type,    tagid,    gwid)   VALUES (    ?,    ?,    ?,    ?,    ?,    ?,    ?)
+### Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01038395471' for key 'PRIMARY'
+(C)DAOUser] 
+### Error updating database.  Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01048800311' for key 'PRIMARY'
+### The error may involve KWGATEWAY.insert_user-Inline
+### The error occurred while setting parameters
+### SQL: INSERT INTO user (    mphnb,    name,    afl,    ofc,    type,    tagid,    gwid)   VALUES (    ?,    ?,    ?,    ?,    ?,    ?,    ?)
+### Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01048800311' for key 'PRIMARY'
+(I)GWProcess] start communication
+(D)MashupReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HAClientReceiver] err: Connection refused: connect
+(D)MashupFileReceiver] err: Connection refused: connect
+####################################################
+log history open time: 2017/08/14 14:42:27
+####################################################
+(I)Configure] *** database configuration
+(I)Configure] *** gateway configuration
+(I)Configure] *** context-awareness configuration
+(I)Configure] *** sensor configuration
+(I)Configure] *** home appliance configuration
+(I)Configure] *** service configuration
+####################################################
+log history open time: 2017/08/14 14:45:40
+####################################################
+(I)Configure] *** database configuration
+(I)Configure] *** gateway configuration
+(I)Configure] *** context-awareness configuration
+(I)Configure] *** sensor configuration
+(I)Configure] *** home appliance configuration
+(I)Configure] *** service configuration
+####################################################
+log history open time: 2017/08/14 14:46:01
+####################################################
+(I)Configure] *** database configuration
+(I)Configure] *** gateway configuration
+(I)Configure] *** context-awareness configuration
+(I)Configure] *** sensor configuration
+(I)Configure] *** home appliance configuration
+(I)Configure] *** service configuration
+####################################################
+log history open time: 2017/08/14 14:50:11
+####################################################
+(I)Configure] *** database configuration
+(I)Configure] *** gateway configuration
+(I)Configure] *** context-awareness configuration
+(I)Configure] *** sensor configuration
+(I)Configure] *** home appliance configuration
+(I)Configure] *** service configuration

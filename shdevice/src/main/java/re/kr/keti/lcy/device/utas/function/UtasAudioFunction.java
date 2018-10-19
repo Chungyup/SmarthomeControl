@@ -1,0 +1,44 @@
+package re.kr.keti.lcy.device.utas.function;
+
+public class UtasAudioFunction extends UtasDeviceFunction {
+	public static final byte RADIO_AND_INPUT = 3;
+	public static final byte OPNE_OR_CLOSE = 4;
+	public static final byte SLEEPING_RESERVATION = 5;
+	public static final byte SIGN = 6;
+	public static final byte INFO_OR_SIMPLE_MENU = 7;
+	public static final byte HOME = 8;
+	public static final byte DISK_MENU = 9;
+	public static final byte UP = 10;
+	public static final byte DOWN = 11;
+	public static final byte LEFT = 12;
+	public static final byte RIGHT = 13;
+	public static final byte CHECK = 14;
+	public static final byte PREVIOUS_DISPLAY = 15;
+	public static final byte TITLE = 16;
+	public static final byte STOP = 17;
+	public static final byte PLAY = 18;
+	public static final byte PAUSE = 19;
+	public static final byte SKIP_BACK = 20;
+	public static final byte SKIP_FORWARD = 21;
+	public static final byte BACK_SEARCH_SLOW = 22;
+	public static final byte FORWARD_SEARCH_SLOW = 23;
+	public static final byte SPEAKER_LEVEL = 24;
+	public static final byte SOUND_EFFECT = 25;
+	public static final byte INPUT_TV_LISTENE = 26;
+	public static final byte MUTE = 27;
+	public static final byte VOLUME_UP = 28;
+	public static final byte VOLUME_DOWN = 29;
+	public static final byte CONTINUE = 30;
+	public static final byte DELETE = 31;
+	public static final byte NUMBER_ONE = 32;
+	public static final byte NUMBER_TWO = 33;
+	public static final byte NUMBER_THREE = 34;
+	public static final byte NUMBER_FOUR = 35;
+	public static final byte NUMBER_FIVE = 36;
+	public static final byte NUMBER_SIX = 37;
+	public static final byte NUMBER_SEVEN = 38;
+	public static final byte NUMBER_EIGHT = 39;
+	public static final byte NUMBER_NINE = 40;
+	public static final byte NUMBER_ZERO = 41;
+	public static final byte STAR = 42;
+}

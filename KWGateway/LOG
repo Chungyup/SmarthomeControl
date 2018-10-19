@@ -1,0 +1,1052 @@
+log history open time: 2017/07/25 15:25:02
+(I)Configure] *** gateway configuration
+(I)Configure] *** context-awareness configuration
+(I)Configure] *** sensor configuration
+(I)Configure] *** home appliance configuration
+(I)Configure] *** service configuration
+log history open time: 2017/07/25 15:27:23
+(I)Configure] *** gateway configuration
+(I)Configure] *** context-awareness configuration
+(I)Configure] *** sensor configuration
+(I)Configure] *** home appliance configuration
+(I)Configure] *** service configuration
+log history open time: 2017/07/25 15:31:19
+(I)Configure] *** gateway configuration
+(I)Configure] *** context-awareness configuration
+(I)Configure] *** sensor configuration
+(I)Configure] *** home appliance configuration
+(I)Configure] *** service configuration
+log history open time: 2017/07/25 15:32:09
+(I)Configure] *** gateway configuration
+(I)Configure] *** context-awareness configuration
+(I)Configure] *** sensor configuration
+(I)Configure] *** home appliance configuration
+(I)Configure] *** service configuration
+(D)DAOGateway] Gateway [gwid=KW_GATEWAY_FOR_GJ, bd=kw-building, flr=6, lct=home, rt=2017-07-19 04:43:00.0]
+(I)GWProcess] gateway info.: Gateway [gwid=KW_GATEWAY_FOR_GJ, bd=kw-building, flr=6, lct=home, rt=2017-07-19 04:43:00.0]
+(I)ContextAwareness] success to set weka instance: arff/home/AirConditionControlService.arff
+(D)MashupManager] add: Mashup [muid=kw-hm-accs-1, ctg=env, mnm=AirConditionControlService, mtp=arff]
+(I)ContextAwareness] success to set weka instance: arff/home/EnvironmentControlService.arff
+(D)MashupManager] add: Mashup [muid=kw-hm-ecs-2, ctg=env, mnm=EnvironmentControlService, mtp=arff]
+(I)ContextAwareness] success to set weka instance: arff/home/LeaveToWorkService.arff
+(D)MashupManager] add: Mashup [muid=kw-hm-ltws-4, ctg=eng, mnm=LeaveToWorkService, mtp=arff]
+(I)ContextAwareness] success to set weka instance: arff/home/MirrorTVService.arff
+(D)MashupManager] add: Mashup [muid=kw-hm-mtvs-6, ctg=ct, mnm=MirrorTVService, mtp=arff]
+(I)ContextAwareness] success to set weka instance: arff/home/SleepWakeupService.arff
+(D)MashupManager] add: Mashup [muid=kw-hm-sws-9, ctg=cnt, mnm=SleepWakeupService, mtp=arff]
+(I)ContextAwareness] success to set weka instance: arff/home/MusicPlayService.arff
+(D)MashupManager] add: Mashup [muid=kw-hm-mps-7, ctg=enj, mnm=MusicPlayService, mtp=arff]
+(I)ContextAwareness] success to set weka instance: arff/home/WatchTVService.arff
+(D)MashupManager] add: Mashup [muid=kw-hm-wtvs-10, ctg=env, mnm=WatchTVService, mtp=arff]
+(I)ContextAwareness] success to set weka instance: arff/home/LightService.arff
+(D)MashupManager] add: Mashup [muid=kw-hm-lsgs-5, ctg=eng, mnm=LightSmartGridService, mtp=arff]
+(I)ContextAwareness] success to set weka instance: arff/home/GoToWorkService.arff
+(D)MashupManager] add: Mashup [muid=kw-hm-gtws-3, ctg=eng, mnm=GoToWorkService, mtp=arff]
+(I)ContextAwareness] success to set weka instance: arff/home/HeaterControlService.arff
+(D)MashupManager] add: Mashup [muid=kw-hm-hcs-10, ctg=env, mnm=HeaterControlService, mtp=arff]
+(C)DAOUser] 
+### Error updating database.  Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01058829549' for key 'PRIMARY'
+### The error may involve KWGATEWAY.insert_user-Inline
+### The error occurred while setting parameters
+### SQL: INSERT INTO user (    mphnb,    name,    afl,    ofc,    type,    tagid,    gwid)   VALUES (    ?,    ?,    ?,    ?,    ?,    ?,    ?)
+### Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01058829549' for key 'PRIMARY'
+(C)DAOUser] 
+### Error updating database.  Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01038395471' for key 'PRIMARY'
+### The error may involve KWGATEWAY.insert_user-Inline
+### The error occurred while setting parameters
+### SQL: INSERT INTO user (    mphnb,    name,    afl,    ofc,    type,    tagid,    gwid)   VALUES (    ?,    ?,    ?,    ?,    ?,    ?,    ?)
+### Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01038395471' for key 'PRIMARY'
+(C)DAOUser] 
+### Error updating database.  Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01048800311' for key 'PRIMARY'
+### The error may involve KWGATEWAY.insert_user-Inline
+### The error occurred while setting parameters
+### SQL: INSERT INTO user (    mphnb,    name,    afl,    ofc,    type,    tagid,    gwid)   VALUES (    ?,    ?,    ?,    ?,    ?,    ?,    ?)
+### Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01048800311' for key 'PRIMARY'
+(I)GWProcess] start communication
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)MashupReceiver] err: Connection timed out: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)MashupReceiver] err: Connection timed out: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)MashupReceiver] err: Connection timed out: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)MashupReceiver] err: Connection timed out: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)MashupReceiver] err: Connection timed out: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)MashupReceiver] err: Connection timed out: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)MashupReceiver] err: Connection timed out: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)MashupReceiver] err: Connection timed out: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)MashupReceiver] err: Connection timed out: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)MashupReceiver] err: Connection timed out: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)MashupReceiver] err: Connection timed out: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)MashupReceiver] err: Connection timed out: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)MashupReceiver] err: Connection timed out: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)MashupReceiver] err: Connection timed out: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)MashupReceiver] err: Connection timed out: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)MashupReceiver] err: Connection timed out: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)MashupReceiver] err: Connection timed out: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)MashupReceiver] err: Connection timed out: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)MashupReceiver] err: Connection timed out: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)MashupReceiver] err: Connection timed out: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)MashupReceiver] err: Connection timed out: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)MashupReceiver] err: Connection timed out: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)MashupReceiver] err: Connection timed out: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)MashupReceiver] err: Connection timed out: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)MashupReceiver] err: Connection timed out: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)MashupReceiver] err: Connection timed out: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)MashupReceiver] err: Connection timed out: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)MashupReceiver] err: Connection timed out: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)MashupReceiver] err: Connection timed out: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)MashupReceiver] err: Connection timed out: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)MashupReceiver] err: Connection timed out: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)MashupReceiver] err: Connection timed out: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)MashupReceiver] err: Connection timed out: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)MashupReceiver] err: Connection timed out: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)MashupReceiver] err: Connection timed out: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)MashupReceiver] err: Connection timed out: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)MashupReceiver] err: Connection timed out: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)MashupReceiver] err: Connection timed out: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)MashupReceiver] err: Connection timed out: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)MashupReceiver] err: Connection timed out: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)MashupReceiver] err: Connection timed out: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)MashupReceiver] err: Connection timed out: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)MashupReceiver] err: Connection timed out: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)MashupReceiver] err: Connection timed out: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)MashupReceiver] err: Connection timed out: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)MashupReceiver] err: Connection timed out: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)MashupReceiver] err: Connection timed out: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)MashupReceiver] err: Connection timed out: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)MashupReceiver] err: Connection timed out: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)MashupReceiver] err: Connection timed out: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)MashupReceiver] err: Connection timed out: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)MashupReceiver] err: Connection timed out: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)MashupReceiver] err: Connection timed out: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)MashupReceiver] err: Connection timed out: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)MashupReceiver] err: Connection timed out: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)MashupReceiver] err: Connection timed out: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)MashupReceiver] err: Connection timed out: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)MashupReceiver] err: Connection timed out: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)MashupReceiver] err: Connection timed out: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)MashupReceiver] err: Connection timed out: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)MashupReceiver] err: Connection timed out: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)MashupReceiver] err: Connection timed out: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)MashupReceiver] err: Connection timed out: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)MashupReceiver] err: Connection timed out: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)MashupReceiver] err: Connection timed out: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)MashupReceiver] err: Connection timed out: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)MashupReceiver] err: Connection timed out: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)MashupReceiver] err: Connection timed out: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)MashupReceiver] err: Connection timed out: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)MashupReceiver] err: Connection timed out: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)MashupReceiver] err: Connection timed out: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)MashupReceiver] err: Connection timed out: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)MashupReceiver] err: Connection timed out: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)MashupReceiver] err: Connection timed out: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)MashupReceiver] err: Connection timed out: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+log history open time: 2017/07/25 16:11:08
+(I)Configure] *** gateway configuration
+(I)Configure] *** context-awareness configuration
+(I)Configure] *** sensor configuration
+(I)Configure] *** home appliance configuration
+(I)Configure] *** service configuration
+(I)GWProcess] gateway info.: Gateway [gwid=KW_GATEWAY_FOR_GJ, bd=kw-building, flr=6, lct=home, rt=2017-07-19 04:43:00.0]
+(I)ContextAwareness] success to set weka instance: arff/home/AirConditionControlService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/EnvironmentControlService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/LeaveToWorkService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/MirrorTVService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/SleepWakeupService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/MusicPlayService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/WatchTVService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/LightService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/GoToWorkService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/HeaterControlService.arff
+(I)GWProcess] start communication
+log history open time: 2017/07/25 17:57:02
+(I)Configure] *** gateway configuration
+(I)Configure] *** context-awareness configuration
+(I)Configure] *** sensor configuration
+(I)Configure] *** home appliance configuration
+(I)Configure] *** service configuration
+(I)GWProcess] gateway info.: Gateway [gwid=KW_GATEWAY_FOR_GJ, bd=kw-building, flr=6, lct=home, rt=2017-07-19 04:43:00.0]
+(I)ContextAwareness] success to set weka instance: arff/home/AirConditionControlService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/EnvironmentControlService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/LeaveToWorkService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/MirrorTVService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/SleepWakeupService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/MusicPlayService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/WatchTVService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/LightService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/GoToWorkService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/HeaterControlService.arff
+(I)GWProcess] start communication
+(I)MonitoringReceiver] connected: 127.0.0.1
+(I)HomeApplianceReceiver] connected: connected
+(I)GWProcess] [][1] onOff=1
+log history open time: 2017/07/25 18:03:47
+(I)Configure] *** gateway configuration
+(I)Configure] *** context-awareness configuration
+(I)Configure] *** sensor configuration
+(I)Configure] *** home appliance configuration
+(I)Configure] *** service configuration
+(I)GWProcess] gateway info.: Gateway [gwid=KW_GATEWAY_FOR_GJ, bd=kw-building, flr=6, lct=home, rt=2017-07-19 04:43:00.0]
+(I)ContextAwareness] success to set weka instance: arff/home/AirConditionControlService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/EnvironmentControlService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/LeaveToWorkService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/MirrorTVService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/SleepWakeupService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/MusicPlayService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/WatchTVService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/LightService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/GoToWorkService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/HeaterControlService.arff
+(I)GWProcess] start communication
+(I)MonitoringReceiver] connected: 127.0.0.1
+(I)HomeApplianceReceiver] connected: connected
+(I)GWProcess] [washingmache][1] onOff=onOff=1user=1
+log history open time: 2017/07/25 18:04:31
+(I)Configure] *** gateway configuration
+(I)Configure] *** context-awareness configuration
+(I)Configure] *** sensor configuration
+(I)Configure] *** home appliance configuration
+(I)Configure] *** service configuration
+(I)GWProcess] gateway info.: Gateway [gwid=KW_GATEWAY_FOR_GJ, bd=kw-building, flr=6, lct=home, rt=2017-07-19 04:43:00.0]
+(I)ContextAwareness] success to set weka instance: arff/home/AirConditionControlService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/EnvironmentControlService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/LeaveToWorkService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/MirrorTVService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/SleepWakeupService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/MusicPlayService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/WatchTVService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/LightService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/GoToWorkService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/HeaterControlService.arff
+(I)GWProcess] start communication
+(I)MonitoringReceiver] connected: 127.0.0.1
+(I)HomeApplianceReceiver] connected: connected
+(I)GWProcess] [washingmache][1] onOff=onOff=1,user=1
+(I)MonitoringReceiver] connected: 127.0.0.1
+(I)MonitoringReceiver] connected: 127.0.0.1
+(I)MonitoringReceiver] connected: 127.0.0.1
+(I)MonitoringReceiver] connected: 127.0.0.1
+(I)MonitoringReceiver] connected: 127.0.0.1
+(I)MonitoringReceiver] connected: 127.0.0.1
+(I)MonitoringReceiver] connected: 127.0.0.1
+(I)MonitoringReceiver] connected: 127.0.0.1
+(I)MonitoringReceiver] connected: 127.0.0.1
+(I)MonitoringReceiver] connected: 127.0.0.1
+(I)MonitoringReceiver] connected: 127.0.0.1
+log history open time: 2017/08/09 15:02:42
+(I)Configure] *** gateway configuration
+(I)Configure] *** context-awareness configuration
+(I)Configure] *** sensor configuration
+(I)Configure] *** home appliance configuration
+(I)Configure] *** service configuration
+log history open time: 2017/08/09 15:04:26
+(I)Configure] *** gateway configuration
+(I)Configure] *** context-awareness configuration
+(I)Configure] *** sensor configuration
+(I)Configure] *** home appliance configuration
+(I)Configure] *** service configuration
+log history open time: 2017/08/09 15:05:30
+(I)Configure] *** gateway configuration
+(I)Configure] *** context-awareness configuration
+(I)Configure] *** sensor configuration
+(I)Configure] *** home appliance configuration
+(I)Configure] *** service configuration
+log history open time: 2017/08/09 15:06:38
+(I)Configure] *** gateway configuration
+(I)Configure] *** context-awareness configuration
+(I)Configure] *** sensor configuration
+(I)Configure] *** home appliance configuration
+(I)Configure] *** service configuration
+log history open time: 2017/08/09 15:07:15
+(I)Configure] *** gateway configuration
+(I)Configure] *** context-awareness configuration
+(I)Configure] *** sensor configuration
+(I)Configure] *** home appliance configuration
+(I)Configure] *** service configuration
+log history open time: 2017/08/09 15:08:40
+(I)Configure] *** gateway configuration
+(I)Configure] *** context-awareness configuration
+(I)Configure] *** sensor configuration
+(I)Configure] *** home appliance configuration
+(I)Configure] *** service configuration
+log history open time: 2017/08/09 15:13:22
+(I)Configure] *** gateway configuration
+(I)Configure] *** context-awareness configuration
+(I)Configure] *** sensor configuration
+(I)Configure] *** home appliance configuration
+(I)Configure] *** service configuration
+log history open time: 2017/08/09 15:13:34
+(I)Configure] *** gateway configuration
+(I)Configure] *** context-awareness configuration
+(I)Configure] *** sensor configuration
+(I)Configure] *** home appliance configuration
+(I)Configure] *** service configuration
+log history open time: 2017/08/09 15:14:24
+(I)Configure] *** gateway configuration
+(I)Configure] *** context-awareness configuration
+(I)Configure] *** sensor configuration
+(I)Configure] *** home appliance configuration
+(I)Configure] *** service configuration
+log history open time: 2017/08/09 15:14:36
+(I)Configure] *** gateway configuration
+(I)Configure] *** context-awareness configuration
+(I)Configure] *** sensor configuration
+(I)Configure] *** home appliance configuration
+(I)Configure] *** service configuration
+log history open time: 2017/08/09 15:14:46
+(I)Configure] *** gateway configuration
+(I)Configure] *** context-awareness configuration
+(I)Configure] *** sensor configuration
+(I)Configure] *** home appliance configuration
+(I)Configure] *** service configuration
+log history open time: 2017/08/09 15:15:50
+(I)Configure] *** gateway configuration
+(I)Configure] *** context-awareness configuration
+(I)Configure] *** sensor configuration
+(I)Configure] *** home appliance configuration
+(I)Configure] *** service configuration
+log history open time: 2017/08/09 15:19:59
+(I)Configure] *** gateway configuration
+(I)Configure] *** context-awareness configuration
+(I)Configure] *** sensor configuration
+(I)Configure] *** home appliance configuration
+(I)Configure] *** service configuration
+log history open time: 2017/08/09 15:20:47
+(I)Configure] *** gateway configuration
+(I)Configure] *** context-awareness configuration
+(I)Configure] *** sensor configuration
+(I)Configure] *** home appliance configuration
+(I)Configure] *** service configuration
+log history open time: 2017/08/09 15:22:18
+(I)Configure] *** gateway configuration
+(I)Configure] *** context-awareness configuration
+(I)Configure] *** sensor configuration
+(I)Configure] *** home appliance configuration
+(I)Configure] *** service configuration
+log history open time: 2017/08/09 15:22:46
+(I)Configure] *** gateway configuration
+(I)Configure] *** context-awareness configuration
+(I)Configure] *** sensor configuration
+(I)Configure] *** home appliance configuration
+(I)Configure] *** service configuration
+log history open time: 2017/08/09 15:25:27
+(I)Configure] *** gateway configuration
+(I)Configure] *** context-awareness configuration
+(I)Configure] *** sensor configuration
+(I)Configure] *** home appliance configuration
+(I)Configure] *** service configuration
+(I)GWProcess] gateway info.: Gateway [gwid=KW_GATEWAY_FOR_GJ, bd=kw-building, flr=6, lct=home, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/AirConditionControlService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/EnvironmentControlService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/LeaveToWorkService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/MirrorTVService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/SleepWakeupService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/MusicPlayService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/WatchTVService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/LightService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/GoToWorkService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/HeaterControlService.arff
+(I)GWProcess] start communication
+log history open time: 2017/08/09 15:41:29
+(I)Configure] *** gateway configuration
+(I)Configure] *** context-awareness configuration
+(I)Configure] *** sensor configuration
+(I)Configure] *** home appliance configuration
+(I)Configure] *** service configuration
+(I)GWProcess] gateway info.: Gateway [gwid=KW_GATEWAY_FOR_GJ, bd=kw-building, flr=6, lct=home, rt=2017-08-09 15:25:28.0]
+(I)ContextAwareness] success to set weka instance: arff/home/AirConditionControlService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/EnvironmentControlService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/LeaveToWorkService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/MirrorTVService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/SleepWakeupService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/MusicPlayService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/WatchTVService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/LightService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/GoToWorkService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/HeaterControlService.arff
+(I)GWProcess] start communication
+log history open time: 2017/08/09 16:05:20
+(I)Configure] *** gateway configuration
+(I)Configure] *** context-awareness configuration
+(I)Configure] *** sensor configuration
+(I)Configure] *** home appliance configuration
+(I)Configure] *** service configuration
+(I)GWProcess] gateway info.: Gateway [gwid=KW_GATEWAY_FOR_GJ, bd=kw-building, flr=6, lct=home, rt=2017-08-09 15:25:28.0]
+(I)ContextAwareness] success to set weka instance: arff/home/AirConditionControlService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/EnvironmentControlService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/LeaveToWorkService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/MirrorTVService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/SleepWakeupService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/MusicPlayService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/WatchTVService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/LightService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/GoToWorkService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/HeaterControlService.arff
+(I)GWProcess] start communication
+log history open time: 2017/08/09 16:42:07
+(I)Configure] *** gateway configuration
+(I)Configure] *** context-awareness configuration
+(I)Configure] *** sensor configuration
+(I)Configure] *** home appliance configuration
+(I)Configure] *** service configuration
+(I)GWProcess] gateway info.: Gateway [gwid=KW_GATEWAY_FOR_GJ, bd=kw-building, flr=6, lct=home, rt=2017-08-09 15:25:28.0]
+(I)ContextAwareness] success to set weka instance: arff/home/AirConditionControlService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/EnvironmentControlService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/LeaveToWorkService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/MirrorTVService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/SleepWakeupService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/MusicPlayService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/WatchTVService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/LightService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/GoToWorkService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/HeaterControlService.arff
+(I)GWProcess] start communication
+(I)PhoneReceiver] connected: 192.168.0.19
+(I)PhoneReceiver] connected: 192.168.0.19
+log history open time: 2017/08/09 16:43:51
+(I)Configure] *** gateway configuration
+(I)Configure] *** context-awareness configuration
+(I)Configure] *** sensor configuration
+(I)Configure] *** home appliance configuration
+(I)Configure] *** service configuration
+(I)GWProcess] gateway info.: Gateway [gwid=KW_GATEWAY_FOR_GJ, bd=kw-building, flr=6, lct=home, rt=2017-08-09 15:25:28.0]
+(I)ContextAwareness] success to set weka instance: arff/home/AirConditionControlService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/EnvironmentControlService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/LeaveToWorkService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/MirrorTVService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/SleepWakeupService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/MusicPlayService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/WatchTVService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/LightService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/GoToWorkService.arff
+(I)GWProcess] start communication
+(I)PhoneReceiver] connected: 192.168.0.19
+(I)PhoneReceiver] connected: 192.168.0.19
+(I)ContextAwareness] success to set weka instance: arff/home/HeaterControlService.arff
+log history open time: 2017/08/09 17:27:02
+(I)Configure] *** gateway configuration
+(I)Configure] *** context-awareness configuration
+(I)Configure] *** sensor configuration
+(I)Configure] *** home appliance configuration
+(I)Configure] *** service configuration
+(I)GWProcess] gateway info.: Gateway [gwid=KW_GATEWAY_FOR_GJ, bd=kw-building, flr=6, lct=home, rt=2017-08-09 15:25:28.0]
+(I)ContextAwareness] success to set weka instance: arff/home/AirConditionControlService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/EnvironmentControlService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/LeaveToWorkService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/MirrorTVService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/SleepWakeupService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/MusicPlayService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/WatchTVService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/LightService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/GoToWorkService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/HeaterControlService.arff
+(I)GWProcess] start communication
+log history open time: 2017/08/09 17:34:29
+(I)Configure] *** gateway configuration
+(I)Configure] *** context-awareness configuration
+(I)Configure] *** sensor configuration
+(I)Configure] *** home appliance configuration
+(I)Configure] *** service configuration
+log history open time: 2017/08/09 17:34:55
+(I)Configure] *** gateway configuration
+(I)Configure] *** context-awareness configuration
+(I)Configure] *** sensor configuration
+(I)Configure] *** home appliance configuration
+(I)Configure] *** service configuration
+(I)GWProcess] gateway info.: Gateway [gwid=KW_GATEWAY_FOR_GJ, bd=kw-building, flr=6, lct=home, rt=2017-08-09 15:25:28.0]
+(I)ContextAwareness] success to set weka instance: arff/home/AirConditionControlService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/EnvironmentControlService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/LeaveToWorkService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/MirrorTVService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/SleepWakeupService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/MusicPlayService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/WatchTVService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/LightService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/GoToWorkService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/HeaterControlService.arff
+(I)GWProcess] start communication
+log history open time: 2017/08/09 17:36:57
+(I)Configure] *** gateway configuration
+(I)Configure] *** context-awareness configuration
+(I)Configure] *** sensor configuration
+(I)Configure] *** home appliance configuration
+(I)Configure] *** service configuration
+(I)GWProcess] gateway info.: Gateway [gwid=KW_GATEWAY_FOR_GJ, bd=kw-building, flr=6, lct=home, rt=2017-08-09 15:25:28.0]
+(I)ContextAwareness] success to set weka instance: arff/home/AirConditionControlService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/EnvironmentControlService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/LeaveToWorkService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/MirrorTVService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/SleepWakeupService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/MusicPlayService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/WatchTVService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/LightService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/GoToWorkService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/HeaterControlService.arff
+(I)GWProcess] start communication
+log history open time: 2017/08/10 15:24:07
+(I)Configure] *** gateway configuration
+(I)Configure] *** context-awareness configuration
+(I)Configure] *** sensor configuration
+(I)Configure] *** home appliance configuration
+(I)Configure] *** service configuration
+(I)GWProcess] gateway info.: Gateway [gwid=KW_GATEWAY_FOR_GJ, bd=kw-building, flr=6, lct=home, rt=2017-08-09 15:25:28.0]
+(I)ContextAwareness] success to set weka instance: arff/home/AirConditionControlService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/EnvironmentControlService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/LeaveToWorkService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/MirrorTVService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/SleepWakeupService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/MusicPlayService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/WatchTVService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/LightService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/GoToWorkService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/HeaterControlService.arff
+(I)GWProcess] start communication
+(I)PhoneReceiver] connected: 192.168.0.16
+(I)PhoneReceiver] disconnected: 192.168.0.16
+(I)PhoneReceiver] connected: 192.168.0.16
+(I)MirrorTVReceiver] connected: 192.168.0.16
+log history open time: 2017/08/10 15:27:24
+(I)Configure] *** gateway configuration
+(I)Configure] *** context-awareness configuration
+(I)Configure] *** sensor configuration
+(I)Configure] *** home appliance configuration
+(I)Configure] *** service configuration
+(I)GWProcess] gateway info.: Gateway [gwid=KW_GATEWAY_FOR_GJ, bd=kw-building, flr=6, lct=home, rt=2017-08-09 15:25:28.0]
+(I)ContextAwareness] success to set weka instance: arff/home/AirConditionControlService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/EnvironmentControlService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/LeaveToWorkService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/MirrorTVService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/SleepWakeupService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/MusicPlayService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/WatchTVService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/LightService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/GoToWorkService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/HeaterControlService.arff
+(I)MirrorTVReceiver] connected: 192.168.0.16
+(I)GWProcess] start communication
+(I)PhoneReceiver] connected: 192.168.0.16
+log history open time: 2017/08/10 15:29:36
+(I)Configure] *** gateway configuration
+(I)Configure] *** context-awareness configuration
+(I)Configure] *** sensor configuration
+(I)Configure] *** home appliance configuration
+(I)Configure] *** service configuration
+(I)GWProcess] gateway info.: Gateway [gwid=KW_GATEWAY_FOR_GJ, bd=kw-building, flr=6, lct=home, rt=2017-08-09 15:25:28.0]
+(I)ContextAwareness] success to set weka instance: arff/home/AirConditionControlService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/EnvironmentControlService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/LeaveToWorkService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/MirrorTVService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/SleepWakeupService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/MusicPlayService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/WatchTVService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/LightService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/GoToWorkService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/HeaterControlService.arff
+(I)GWProcess] start communication
+(I)PhoneReceiver] connected: 192.168.0.16
+(I)MirrorTVReceiver] connected: 192.168.0.16
+log history open time: 2017/08/10 16:35:25
+(I)Configure] *** gateway configuration
+(I)Configure] *** context-awareness configuration
+(I)Configure] *** sensor configuration
+(I)Configure] *** home appliance configuration
+(I)Configure] *** service configuration
+(I)GWProcess] gateway info.: Gateway [gwid=KW_GATEWAY_FOR_GJ, bd=kw-building, flr=6, lct=home, rt=2017-08-09 15:25:28.0]
+(I)ContextAwareness] success to set weka instance: arff/home/AirConditionControlService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/EnvironmentControlService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/LeaveToWorkService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/MirrorTVService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/SleepWakeupService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/MusicPlayService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/WatchTVService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/LightService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/GoToWorkService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/HeaterControlService.arff
+(I)MirrorTVReceiver] connected: 192.168.0.16
+(I)GWProcess] start communication
+(I)MonitoringReceiver] connected: 127.0.0.1
+(I)MonitoringReceiver] connected: 127.0.0.1
+log history open time: 2017/08/10 17:01:26
+(I)Configure] *** gateway configuration
+(I)Configure] *** context-awareness configuration
+(I)Configure] *** sensor configuration
+(I)Configure] *** home appliance configuration
+(I)Configure] *** service configuration
+(I)GWProcess] gateway info.: Gateway [gwid=KW_GATEWAY_FOR_GJ, bd=kw-building, flr=6, lct=home, rt=2017-08-09 15:25:28.0]
+(I)ContextAwareness] success to set weka instance: arff/home/AirConditionControlService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/EnvironmentControlService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/LeaveToWorkService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/MirrorTVService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/SleepWakeupService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/MusicPlayService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/WatchTVService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/LightService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/GoToWorkService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/HeaterControlService.arff
+(I)GWProcess] start communication
+(I)MonitoringReceiver] connected: 127.0.0.1
+(I)MonitoringReceiver] disconnected: 127.0.0.1
+log history open time: 2017/08/10 17:08:56
+(I)Configure] *** gateway configuration
+(I)Configure] *** context-awareness configuration
+(I)Configure] *** sensor configuration
+(I)Configure] *** home appliance configuration
+(I)Configure] *** service configuration
+(I)GWProcess] gateway info.: Gateway [gwid=KW_GATEWAY_FOR_GJ, bd=kw-building, flr=6, lct=home, rt=2017-08-09 15:25:28.0]
+(I)ContextAwareness] success to set weka instance: arff/home/AirConditionControlService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/EnvironmentControlService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/LeaveToWorkService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/MirrorTVService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/SleepWakeupService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/MusicPlayService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/WatchTVService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/LightService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/GoToWorkService.arff
+(I)GWProcess] start communication
+(I)MonitoringReceiver] connected: 127.0.0.1
+(I)MirrorTVReceiver] connected: 192.168.0.16
+(I)PhoneReceiver] connected: 192.168.0.16
+log history open time: 2017/08/10 17:22:03
+(I)Configure] *** gateway configuration
+(I)Configure] *** context-awareness configuration
+(I)Configure] *** sensor configuration
+(I)Configure] *** home appliance configuration
+(I)Configure] *** service configuration
+(I)GWProcess] gateway info.: Gateway [gwid=KW_GATEWAY_FOR_GJ, bd=kw-building, flr=6, lct=home, rt=2017-08-09 15:25:28.0]
+(I)ContextAwareness] success to set weka instance: arff/home/AirConditionControlService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/EnvironmentControlService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/LeaveToWorkService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/MirrorTVService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/SleepWakeupService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/MusicPlayService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/WatchTVService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/LightService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/GoToWorkService.arff
+(I)MirrorTVReceiver] connected: 192.168.0.16
+(I)GWProcess] start communication
+(I)MonitoringReceiver] connected: 127.0.0.1
+(I)PhoneReceiver] connected: 192.168.0.16
+(I)MonitoringReceiver] connected: 127.0.0.1
+(I)ContextAwareness] success to set weka instance: arff/home/HeaterControlService.arff
+(I)PhoneReceiver] disconnected: 192.168.0.16

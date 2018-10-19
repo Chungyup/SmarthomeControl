@@ -1,0 +1,40 @@
+%
+%Entry
+%
+%Control Home Appliance List <Light(dimming),Aircon,Aircleaner,Dehumidifier>
+%
+%Descriptive Features
+%1) PreLocation, Data Format : {10013=TVzone,10017=Livingroom,10015=Bedroom1,10014=Kitchen,
+%			10018=Bedroom2,10016=Entry,10019=Bathroom,10004=Outside}
+%2) Location11, Data Format : {10013=TVzone,10017=Livingroom,10015=Bedroom1,10014=Kitchen,
+%			10018=Bedroom2,10016=Entry,10019=Bathroom,10004=Outside}
+%3) Location12, Data Format : {10013=TVzone,10017=Livingroom,10015=Bedroom1,10014=Kitchen,
+%			10018=Bedroom2,10016=Entry,10019=Bathroom,10004=Outside}
+%4) Location13, Data Format : {10013=TVzone,10017=Livingroom,10015=Bedroom1,10014=Kitchen,
+%			10018=Bedroom2,10016=Entry,10019=Bathroom,10004=Outside}
+%5) Smart Integration Sensor
+%5-1) Temperature, Data Format : {Integer}
+%5-2) Humidity, Data Format : {Integer}
+%5-3) CO2, Data Format : {Integer}
+%6) Date, Data Format : {MON,TUE,WED,THU,FRI,SAT,SUN}
+%7) Time, Data Format : Date "HH:mm:ss"
+%
+%Target Feature
+%class, Data Format : {01,02,03,04,05,06,07,08,09,10,11,12,13}
+%
+%class-information : {01=None, 02=Light(dimming),Aircon,Aircleaner,Dehumidifier_on, 03=Light(dimming),Aircon,Aircleaner,Dehumidifier_off, 04, 05, 06, 07, 08, 09, 10, 11, 12, 13}
+%
+@RELATION kw-hm-etr-1_zone_Entry_arff_0.0.1
+
+@ATTRIBUTE PreLocation {0,10013,10014,10015,10016,10017,10018,10019,10004}
+@ATTRIBUTE Location11 {0,10013,10014,10015,10016,10017,10018,10019,10004}
+@ATTRIBUTE Location12 {0,10013,10014,10015,10016,10017,10018,10019,10004}
+@ATTRIBUTE Location13 {0,10013,10014,10015,10016,10017,10018,10019,10004}
+@ATTRIBUTE Temperature numeric
+@ATTRIBUTE Humidity numeric
+@ATTRIBUTE CO2 numeric
+@ATTRIBUTE Date {MON,TUE,WED,THU,FRI,SAT,SUN}
+@ATTRIBUTE Time DATE "HH:mm:ss"
+@ATTRIBUTE class {01,02,03,04,05,06,07,08,09,10,11,12,13}
+
+@DATA

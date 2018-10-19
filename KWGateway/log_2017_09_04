@@ -1,0 +1,132 @@
+####################################################
+log history open time: 2017/09/04 12:23:47
+####################################################
+(I)Configure] *** database configuration
+(I)Configure] *** gateway configuration
+(I)Configure] *** context-awareness configuration
+(I)Configure] *** sensor configuration
+(I)Configure] *** home appliance configuration
+(I)Configure] *** service configuration
+(D)DAOGateway] Gateway [gwid=KW_GATEWAY_FOR_GJ, bd=kw-building, flr=6, lct=home, rt=2017-08-09 15:25:28.0]
+(I)GWProcess] gateway info.: Gateway [gwid=KW_GATEWAY_FOR_GJ, bd=kw-building, flr=6, lct=home, rt=2017-08-09 15:25:28.0]
+(I)ContextAwareness] success to set weka instance: arff/home/Bathroom.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-btr-1, svnm=Bathroom, svvs=0.0.1, svif=null, ctg=zone, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/Bedroom1.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-bdr-1, svnm=Bedroom1, svvs=0.0.1, svif=null, ctg=zone, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/Bedroom2.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-bdr-2, svnm=Bedroom2, svvs=0.0.1, svif=null, ctg=zone, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/Kitchen.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-ktc-1, svnm=Kitchen, svvs=0.0.1, svif=null, ctg=zone, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/Livingroom.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-lvr-1, svnm=Livingroom, svvs=0.0.1, svif=null, ctg=zone, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/Outside.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-ots-1, svnm=Outside, svvs=0.0.1, svif=null, ctg=zone, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/SleepWakeUp.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-swu-1, svnm=SleepWakeUp, svvs=0.0.1, svif=null, ctg=svr, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/TVzone.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-tvz-1, svnm=TVzone, svvs=0.0.1, svif=null, ctg=zone, svtp=arff, rt=null]
+(C)DAOUser] 
+### Error updating database.  Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01058829549' for key 'PRIMARY'
+### The error may involve KWGATEWAY.insert_user-Inline
+### The error occurred while setting parameters
+### SQL: INSERT INTO user (    mphnb,    name,    afl,    ofc,    type,    tagid,    gwid)   VALUES (    ?,    ?,    ?,    ?,    ?,    ?,    ?)
+### Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01058829549' for key 'PRIMARY'
+(C)DAOUser] 
+### Error updating database.  Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01038395471' for key 'PRIMARY'
+### The error may involve KWGATEWAY.insert_user-Inline
+### The error occurred while setting parameters
+### SQL: INSERT INTO user (    mphnb,    name,    afl,    ofc,    type,    tagid,    gwid)   VALUES (    ?,    ?,    ?,    ?,    ?,    ?,    ?)
+### Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01038395471' for key 'PRIMARY'
+(C)DAOUser] 
+### Error updating database.  Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01048800311' for key 'PRIMARY'
+### The error may involve KWGATEWAY.insert_user-Inline
+### The error occurred while setting parameters
+### SQL: INSERT INTO user (    mphnb,    name,    afl,    ofc,    type,    tagid,    gwid)   VALUES (    ?,    ?,    ?,    ?,    ?,    ?,    ?)
+### Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01048800311' for key 'PRIMARY'
+(I)GWProcess] start communication
+(D)BMSReceiver] err: Connection refused: connect
+(D)HAClientReceiver] err: Connection refused: connect
+(D)MashupFileReceiver] err: Connection refused: connect
+(D)MashupReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HAClientReceiver] err: Connection refused: connect
+(D)MashupReceiver] err: Connection refused: connect
+(D)MashupFileReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HAClientReceiver] err: Connection refused: connect
+(D)MashupReceiver] err: Connection refused: connect
+(D)MashupFileReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HAClientReceiver] err: Connection refused: connect
+(D)MashupReceiver] err: Connection refused: connect
+(D)MashupFileReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HAClientReceiver] err: Connection refused: connect
+(D)MashupReceiver] err: Connection refused: connect
+(D)MashupFileReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HAClientReceiver] err: Connection refused: connect
+(D)MashupReceiver] err: Connection refused: connect
+(D)MashupFileReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HAClientReceiver] err: Connection refused: connect
+(D)MashupReceiver] err: Connection refused: connect
+(D)MashupFileReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HAClientReceiver] err: Connection refused: connect
+(D)MashupReceiver] err: Connection refused: connect
+(D)MashupFileReceiver] err: Connection refused: connect
+(D)HAClientReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)MashupReceiver] err: Connection refused: connect
+(D)MashupFileReceiver] err: Connection refused: connect
+####################################################
+log history open time: 2017/09/04 12:25:42
+####################################################
+(I)Configure] *** database configuration
+(I)Configure] *** gateway configuration
+(I)Configure] *** context-awareness configuration
+(I)Configure] *** sensor configuration
+(I)Configure] *** home appliance configuration
+(I)Configure] *** service configuration
+(D)DAOGateway] Gateway [gwid=KW_GATEWAY_FOR_GJ, bd=kw-building, flr=6, lct=home, rt=2017-08-09 15:25:28.0]
+(I)GWProcess] gateway info.: Gateway [gwid=KW_GATEWAY_FOR_GJ, bd=kw-building, flr=6, lct=home, rt=2017-08-09 15:25:28.0]
+(I)ContextAwareness] success to set weka instance: arff/home/Bathroom.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-btr-1, svnm=Bathroom, svvs=0.0.1, svif=null, ctg=zone, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/Bedroom1.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-bdr-1, svnm=Bedroom1, svvs=0.0.1, svif=null, ctg=zone, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/Bedroom2.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-bdr-2, svnm=Bedroom2, svvs=0.0.1, svif=null, ctg=zone, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/Kitchen.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-ktc-1, svnm=Kitchen, svvs=0.0.1, svif=null, ctg=zone, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/Livingroom.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-lvr-1, svnm=Livingroom, svvs=0.0.1, svif=null, ctg=zone, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/Outside.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-ots-1, svnm=Outside, svvs=0.0.1, svif=null, ctg=zone, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/SleepWakeUp.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-swu-1, svnm=SleepWakeUp, svvs=0.0.1, svif=null, ctg=svr, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/TVzone.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-tvz-1, svnm=TVzone, svvs=0.0.1, svif=null, ctg=zone, svtp=arff, rt=null]
+(C)DAOUser] 
+### Error updating database.  Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01058829549' for key 'PRIMARY'
+### The error may involve KWGATEWAY.insert_user-Inline
+### The error occurred while setting parameters
+### SQL: INSERT INTO user (    mphnb,    name,    afl,    ofc,    type,    tagid,    gwid)   VALUES (    ?,    ?,    ?,    ?,    ?,    ?,    ?)
+### Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01058829549' for key 'PRIMARY'
+(C)DAOUser] 
+### Error updating database.  Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01038395471' for key 'PRIMARY'
+### The error may involve KWGATEWAY.insert_user-Inline
+### The error occurred while setting parameters
+### SQL: INSERT INTO user (    mphnb,    name,    afl,    ofc,    type,    tagid,    gwid)   VALUES (    ?,    ?,    ?,    ?,    ?,    ?,    ?)
+### Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01038395471' for key 'PRIMARY'
+(C)DAOUser] 
+### Error updating database.  Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01048800311' for key 'PRIMARY'
+### The error may involve KWGATEWAY.insert_user-Inline
+### The error occurred while setting parameters
+### SQL: INSERT INTO user (    mphnb,    name,    afl,    ofc,    type,    tagid,    gwid)   VALUES (    ?,    ?,    ?,    ?,    ?,    ?,    ?)
+### Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01048800311' for key 'PRIMARY'
+(I)GWProcess] start communication
+(D)HAClientReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)MashupFileReceiver] err: Connection refused: connect
+(D)MashupReceiver] err: Connection refused: connect

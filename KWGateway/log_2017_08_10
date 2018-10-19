@@ -1,0 +1,2302 @@
+log history open time: 2017/08/10 17:36:56
+(I)Configure] *** gateway configuration
+(I)Configure] *** context-awareness configuration
+(I)Configure] *** sensor configuration
+(I)Configure] *** home appliance configuration
+(I)Configure] *** service configuration
+(I)GWProcess] gateway info.: Gateway [gwid=KW_GATEWAY_FOR_GJ, bd=kw-building, flr=6, lct=home, rt=2017-08-09 15:25:28.0]
+(I)ContextAwareness] success to set weka instance: arff/home/AirConditionControlService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/EnvironmentControlService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/LeaveToWorkService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/MirrorTVService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/SleepWakeupService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/MusicPlayService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/WatchTVService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/LightService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/GoToWorkService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/HeaterControlService.arff
+(I)GWProcess] start communication
+(I)MirrorTVReceiver] connected: 192.168.0.16
+log history open time: 2017/08/10 17:40:48
+(I)Configure] *** gateway configuration
+(I)Configure] *** context-awareness configuration
+(I)Configure] *** sensor configuration
+(I)Configure] *** home appliance configuration
+(I)Configure] *** service configuration
+(I)GWProcess] gateway info.: Gateway [gwid=KW_GATEWAY_FOR_GJ, bd=kw-building, flr=6, lct=home, rt=2017-08-09 15:25:28.0]
+(I)ContextAwareness] success to set weka instance: arff/home/AirConditionControlService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/EnvironmentControlService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/LeaveToWorkService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/MirrorTVService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/SleepWakeupService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/MusicPlayService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/WatchTVService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/LightService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/GoToWorkService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/HeaterControlService.arff
+(I)MirrorTVReceiver] connected: 192.168.0.16
+(I)GWProcess] start communication
+####################################################
+log history open time: 2017/08/10 17:41:37
+####################################################
+(I)Configure] *** gateway configuration
+(I)Configure] *** context-awareness configuration
+(I)Configure] *** sensor configuration
+(I)Configure] *** home appliance configuration
+(I)Configure] *** service configuration
+(I)GWProcess] gateway info.: Gateway [gwid=KW_GATEWAY_FOR_GJ, bd=kw-building, flr=6, lct=home, rt=2017-08-09 15:25:28.0]
+(I)ContextAwareness] success to set weka instance: arff/home/AirConditionControlService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/EnvironmentControlService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/LeaveToWorkService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/MirrorTVService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/SleepWakeupService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/MusicPlayService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/WatchTVService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/LightService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/GoToWorkService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/HeaterControlService.arff
+(I)MirrorTVReceiver] connected: 192.168.0.16
+(I)GWProcess] start communication
+####################################################
+log history open time: 2017/08/10 17:43:15
+####################################################
+(I)Configure] *** gateway configuration
+(I)Configure] *** context-awareness configuration
+(I)Configure] *** sensor configuration
+(I)Configure] *** home appliance configuration
+(I)Configure] *** service configuration
+(I)GWProcess] gateway info.: Gateway [gwid=KW_GATEWAY_FOR_GJ, bd=kw-building, flr=6, lct=home, rt=2017-08-09 15:25:28.0]
+(I)ContextAwareness] success to set weka instance: arff/home/AirConditionControlService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/EnvironmentControlService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/LeaveToWorkService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/MirrorTVService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/SleepWakeupService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/MusicPlayService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/WatchTVService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/LightService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/GoToWorkService.arff
+(I)MirrorTVReceiver] connected: 192.168.0.16
+(I)GWProcess] start communication
+####################################################
+log history open time: 2017/08/10 17:43:25
+####################################################
+(I)Configure] *** gateway configuration
+(I)Configure] *** context-awareness configuration
+(I)Configure] *** sensor configuration
+(I)Configure] *** home appliance configuration
+(I)Configure] *** service configuration
+(I)GWProcess] gateway info.: Gateway [gwid=KW_GATEWAY_FOR_GJ, bd=kw-building, flr=6, lct=home, rt=2017-08-09 15:25:28.0]
+(I)ContextAwareness] success to set weka instance: arff/home/AirConditionControlService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/EnvironmentControlService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/LeaveToWorkService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/MirrorTVService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/SleepWakeupService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/MusicPlayService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/WatchTVService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/LightService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/GoToWorkService.arff
+(I)GWProcess] start communication
+(I)MonitoringReceiver] connected: 127.0.0.1
+(I)PhoneReceiver] connected: 192.168.0.16
+(I)MonitoringReceiver] disconnected: 127.0.0.1
+####################################################
+log history open time: 2017/08/10 17:44:14
+####################################################
+(I)Configure] *** gateway configuration
+(I)Configure] *** context-awareness configuration
+(I)Configure] *** sensor configuration
+(I)Configure] *** home appliance configuration
+(I)Configure] *** service configuration
+(I)GWProcess] gateway info.: Gateway [gwid=KW_GATEWAY_FOR_GJ, bd=kw-building, flr=6, lct=home, rt=2017-08-09 15:25:28.0]
+(I)ContextAwareness] success to set weka instance: arff/home/AirConditionControlService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/EnvironmentControlService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/LeaveToWorkService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/MirrorTVService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/SleepWakeupService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/MusicPlayService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/WatchTVService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/LightService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/GoToWorkService.arff
+(I)GWProcess] start communication
+(I)MonitoringReceiver] connected: 127.0.0.1
+(I)PhoneReceiver] connected: 192.168.0.16
+(I)ContextAwareness] success to set weka instance: arff/home/HeaterControlService.arff
+(I)MirrorTVReceiver] connected: 192.168.0.16
+(I)MirrorTVReceiver] connected: 192.168.0.16
+(I)MirrorTVReceiver] connected: 192.168.0.16
+(I)MirrorTVReceiver] connected: 192.168.0.16
+(I)MirrorTVReceiver] connected: 192.168.0.16
+(I)MonitoringReceiver] disconnected: 127.0.0.1
+####################################################
+log history open time: 2017/08/10 18:45:13
+####################################################
+(I)Configure] *** gateway configuration
+(I)Configure] *** context-awareness configuration
+(I)Configure] *** sensor configuration
+(I)Configure] *** home appliance configuration
+(I)Configure] *** service configuration
+(I)GWProcess] gateway info.: Gateway [gwid=KW_GATEWAY_FOR_GJ, bd=kw-building, flr=6, lct=home, rt=2017-08-09 15:25:28.0]
+(I)ContextAwareness] success to set weka instance: arff/home/AirConditionControlService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/EnvironmentControlService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/LeaveToWorkService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/MirrorTVService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/SleepWakeupService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/MusicPlayService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/WatchTVService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/LightService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/GoToWorkService.arff
+(I)GWProcess] start communication
+(I)MonitoringReceiver] connected: 127.0.0.1
+####################################################
+log history open time: 2017/08/10 18:50:00
+####################################################
+(I)Configure] *** gateway configuration
+(I)Configure] *** context-awareness configuration
+(I)Configure] *** sensor configuration
+(I)Configure] *** home appliance configuration
+(I)Configure] *** service configuration
+(I)GWProcess] gateway info.: Gateway [gwid=KW_GATEWAY_FOR_GJ, bd=kw-building, flr=6, lct=home, rt=2017-08-09 15:25:28.0]
+(I)ContextAwareness] success to set weka instance: arff/home/AirConditionControlService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/EnvironmentControlService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/LeaveToWorkService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/MirrorTVService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/SleepWakeupService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/MusicPlayService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/WatchTVService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/LightService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/GoToWorkService.arff
+(I)MonitoringReceiver] connected: 127.0.0.1
+(I)GWProcess] start communication
+####################################################
+log history open time: 2017/08/10 18:50:39
+####################################################
+(I)Configure] *** gateway configuration
+(I)Configure] *** context-awareness configuration
+(I)Configure] *** sensor configuration
+(I)Configure] *** home appliance configuration
+(I)Configure] *** service configuration
+(I)GWProcess] gateway info.: Gateway [gwid=KW_GATEWAY_FOR_GJ, bd=kw-building, flr=6, lct=home, rt=2017-08-09 15:25:28.0]
+(I)ContextAwareness] success to set weka instance: arff/home/AirConditionControlService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/EnvironmentControlService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/LeaveToWorkService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/MirrorTVService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/SleepWakeupService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/MusicPlayService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/WatchTVService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/LightService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/GoToWorkService.arff
+(I)GWProcess] start communication
+(I)MonitoringReceiver] connected: 127.0.0.1
+####################################################
+log history open time: 2017/08/10 18:51:10
+####################################################
+(I)Configure] *** gateway configuration
+(I)Configure] *** context-awareness configuration
+(I)Configure] *** sensor configuration
+(I)Configure] *** home appliance configuration
+(I)Configure] *** service configuration
+(I)GWProcess] gateway info.: Gateway [gwid=KW_GATEWAY_FOR_GJ, bd=kw-building, flr=6, lct=home, rt=2017-08-09 15:25:28.0]
+(I)ContextAwareness] success to set weka instance: arff/home/AirConditionControlService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/EnvironmentControlService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/LeaveToWorkService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/MirrorTVService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/SleepWakeupService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/MusicPlayService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/WatchTVService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/LightService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/GoToWorkService.arff
+(I)MonitoringReceiver] connected: 127.0.0.1
+(I)GWProcess] start communication
+####################################################
+log history open time: 2017/08/10 18:54:41
+####################################################
+(I)Configure] *** gateway configuration
+(I)Configure] *** context-awareness configuration
+(I)Configure] *** sensor configuration
+(I)Configure] *** home appliance configuration
+(I)Configure] *** service configuration
+(I)GWProcess] gateway info.: Gateway [gwid=KW_GATEWAY_FOR_GJ, bd=kw-building, flr=6, lct=home, rt=2017-08-09 15:25:28.0]
+(I)ContextAwareness] success to set weka instance: arff/home/AirConditionControlService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/EnvironmentControlService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/LeaveToWorkService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/MirrorTVService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/SleepWakeupService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/MusicPlayService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/WatchTVService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/LightService.arff
+(I)ContextAwareness] success to set weka instance: arff/home/GoToWorkService.arff
+(I)MonitoringReceiver] connected: 127.0.0.1
+(I)GWProcess] start communication
+####################################################
+log history open time: 2017/08/10 18:55:43
+####################################################
+(I)Configure] *** gateway configuration
+(I)Configure] *** context-awareness configuration
+(I)Configure] *** sensor configuration
+(I)Configure] *** home appliance configuration
+(I)Configure] *** service configuration
+(D)DAOGateway] Gateway [gwid=KW_GATEWAY_FOR_GJ, bd=kw-building, flr=6, lct=home, rt=2017-08-09 15:25:28.0]
+(I)GWProcess] gateway info.: Gateway [gwid=KW_GATEWAY_FOR_GJ, bd=kw-building, flr=6, lct=home, rt=2017-08-09 15:25:28.0]
+(I)ContextAwareness] success to set weka instance: arff/home/AirConditionControlService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-accs-1, svnm=AirConditionControlService, svvs=0.0.1, svif=null, ctg=env, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/EnvironmentControlService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-ecs-2, svnm=EnvironmentControlService, svvs=0.0.1, svif=null, ctg=env, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/LeaveToWorkService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-ltws-4, svnm=LeaveToWorkService, svvs=0.0.1, svif=null, ctg=eng, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/MirrorTVService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-mtvs-6, svnm=MirrorTVService, svvs=0.0.1, svif=null, ctg=ct, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/SleepWakeupService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-sws-9, svnm=SleepWakeupService, svvs=0.0.1, svif=null, ctg=cnt, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/MusicPlayService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-mps-7, svnm=MusicPlayService, svvs=0.0.1, svif=null, ctg=enj, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/WatchTVService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-wtvs-10, svnm=WatchTVService, svvs=0.0.1, svif=null, ctg=env, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/LightService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-lsgs-5, svnm=LightSmartGridService, svvs=0.0.1, svif=null, ctg=eng, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/GoToWorkService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-gtws-3, svnm=GoToWorkService, svvs=0.0.1, svif=null, ctg=eng, svtp=arff, rt=null]
+(C)DAOUser] 
+### Error updating database.  Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01058829549' for key 'PRIMARY'
+### The error may involve KWGATEWAY.insert_user-Inline
+### The error occurred while setting parameters
+### SQL: INSERT INTO user (    mphnb,    name,    afl,    ofc,    type,    tagid,    gwid)   VALUES (    ?,    ?,    ?,    ?,    ?,    ?,    ?)
+### Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01058829549' for key 'PRIMARY'
+(C)DAOUser] 
+### Error updating database.  Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01038395471' for key 'PRIMARY'
+### The error may involve KWGATEWAY.insert_user-Inline
+### The error occurred while setting parameters
+### SQL: INSERT INTO user (    mphnb,    name,    afl,    ofc,    type,    tagid,    gwid)   VALUES (    ?,    ?,    ?,    ?,    ?,    ?,    ?)
+### Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01038395471' for key 'PRIMARY'
+(C)DAOUser] 
+### Error updating database.  Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01048800311' for key 'PRIMARY'
+### The error may involve KWGATEWAY.insert_user-Inline
+### The error occurred while setting parameters
+### SQL: INSERT INTO user (    mphnb,    name,    afl,    ofc,    type,    tagid,    gwid)   VALUES (    ?,    ?,    ?,    ?,    ?,    ?,    ?)
+### Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01048800311' for key 'PRIMARY'
+(D)MashupReceiver] connected
+(I)MonitoringReceiver] connected: 127.0.0.1
+(I)GWProcess] start communication
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+####################################################
+log history open time: 2017/08/10 18:58:21
+####################################################
+(I)Configure] *** gateway configuration
+(I)Configure] *** context-awareness configuration
+(I)Configure] *** sensor configuration
+(I)Configure] *** home appliance configuration
+(I)Configure] *** service configuration
+(D)DAOGateway] Gateway [gwid=KW_GATEWAY_FOR_GJ, bd=kw-building, flr=6, lct=home, rt=2017-08-09 15:25:28.0]
+(I)GWProcess] gateway info.: Gateway [gwid=KW_GATEWAY_FOR_GJ, bd=kw-building, flr=6, lct=home, rt=2017-08-09 15:25:28.0]
+(I)ContextAwareness] success to set weka instance: arff/home/AirConditionControlService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-accs-1, svnm=AirConditionControlService, svvs=0.0.1, svif=null, ctg=env, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/EnvironmentControlService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-ecs-2, svnm=EnvironmentControlService, svvs=0.0.1, svif=null, ctg=env, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/LeaveToWorkService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-ltws-4, svnm=LeaveToWorkService, svvs=0.0.1, svif=null, ctg=eng, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/MirrorTVService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-mtvs-6, svnm=MirrorTVService, svvs=0.0.1, svif=null, ctg=ct, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/SleepWakeupService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-sws-9, svnm=SleepWakeupService, svvs=0.0.1, svif=null, ctg=cnt, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/MusicPlayService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-mps-7, svnm=MusicPlayService, svvs=0.0.1, svif=null, ctg=enj, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/WatchTVService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-wtvs-10, svnm=WatchTVService, svvs=0.0.1, svif=null, ctg=env, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/LightService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-lsgs-5, svnm=LightSmartGridService, svvs=0.0.1, svif=null, ctg=eng, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/GoToWorkService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-gtws-3, svnm=GoToWorkService, svvs=0.0.1, svif=null, ctg=eng, svtp=arff, rt=null]
+(C)DAOUser] 
+### Error updating database.  Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01058829549' for key 'PRIMARY'
+### The error may involve KWGATEWAY.insert_user-Inline
+### The error occurred while setting parameters
+### SQL: INSERT INTO user (    mphnb,    name,    afl,    ofc,    type,    tagid,    gwid)   VALUES (    ?,    ?,    ?,    ?,    ?,    ?,    ?)
+### Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01058829549' for key 'PRIMARY'
+(C)DAOUser] 
+### Error updating database.  Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01038395471' for key 'PRIMARY'
+### The error may involve KWGATEWAY.insert_user-Inline
+### The error occurred while setting parameters
+### SQL: INSERT INTO user (    mphnb,    name,    afl,    ofc,    type,    tagid,    gwid)   VALUES (    ?,    ?,    ?,    ?,    ?,    ?,    ?)
+### Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01038395471' for key 'PRIMARY'
+(C)DAOUser] 
+### Error updating database.  Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01048800311' for key 'PRIMARY'
+### The error may involve KWGATEWAY.insert_user-Inline
+### The error occurred while setting parameters
+### SQL: INSERT INTO user (    mphnb,    name,    afl,    ofc,    type,    tagid,    gwid)   VALUES (    ?,    ?,    ?,    ?,    ?,    ?,    ?)
+### Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01048800311' for key 'PRIMARY'
+(D)MashupReceiver] connected
+(I)MonitoringReceiver] connected: 127.0.0.1
+(I)GWProcess] start communication
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+####################################################
+log history open time: 2017/08/10 18:59:54
+####################################################
+(I)Configure] *** gateway configuration
+(I)Configure] *** context-awareness configuration
+(I)Configure] *** sensor configuration
+(I)Configure] *** home appliance configuration
+(I)Configure] *** service configuration
+(D)DAOGateway] Gateway [gwid=KW_GATEWAY_FOR_GJ, bd=kw-building, flr=6, lct=home, rt=2017-08-09 15:25:28.0]
+(I)GWProcess] gateway info.: Gateway [gwid=KW_GATEWAY_FOR_GJ, bd=kw-building, flr=6, lct=home, rt=2017-08-09 15:25:28.0]
+(I)ContextAwareness] success to set weka instance: arff/home/AirConditionControlService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-accs-1, svnm=AirConditionControlService, svvs=0.0.1, svif=null, ctg=env, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/EnvironmentControlService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-ecs-2, svnm=EnvironmentControlService, svvs=0.0.1, svif=null, ctg=env, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/LeaveToWorkService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-ltws-4, svnm=LeaveToWorkService, svvs=0.0.1, svif=null, ctg=eng, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/MirrorTVService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-mtvs-6, svnm=MirrorTVService, svvs=0.0.1, svif=null, ctg=ct, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/SleepWakeupService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-sws-9, svnm=SleepWakeupService, svvs=0.0.1, svif=null, ctg=cnt, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/MusicPlayService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-mps-7, svnm=MusicPlayService, svvs=0.0.1, svif=null, ctg=enj, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/WatchTVService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-wtvs-10, svnm=WatchTVService, svvs=0.0.1, svif=null, ctg=env, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/LightService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-lsgs-5, svnm=LightSmartGridService, svvs=0.0.1, svif=null, ctg=eng, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/GoToWorkService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-gtws-3, svnm=GoToWorkService, svvs=0.0.1, svif=null, ctg=eng, svtp=arff, rt=null]
+(C)DAOUser] 
+### Error updating database.  Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01058829549' for key 'PRIMARY'
+### The error may involve KWGATEWAY.insert_user-Inline
+### The error occurred while setting parameters
+### SQL: INSERT INTO user (    mphnb,    name,    afl,    ofc,    type,    tagid,    gwid)   VALUES (    ?,    ?,    ?,    ?,    ?,    ?,    ?)
+### Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01058829549' for key 'PRIMARY'
+(C)DAOUser] 
+### Error updating database.  Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01038395471' for key 'PRIMARY'
+### The error may involve KWGATEWAY.insert_user-Inline
+### The error occurred while setting parameters
+### SQL: INSERT INTO user (    mphnb,    name,    afl,    ofc,    type,    tagid,    gwid)   VALUES (    ?,    ?,    ?,    ?,    ?,    ?,    ?)
+### Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01038395471' for key 'PRIMARY'
+(C)DAOUser] 
+### Error updating database.  Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01048800311' for key 'PRIMARY'
+### The error may involve KWGATEWAY.insert_user-Inline
+### The error occurred while setting parameters
+### SQL: INSERT INTO user (    mphnb,    name,    afl,    ofc,    type,    tagid,    gwid)   VALUES (    ?,    ?,    ?,    ?,    ?,    ?,    ?)
+### Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01048800311' for key 'PRIMARY'
+(D)MashupReceiver] connected
+(I)MonitoringReceiver] connected: 127.0.0.1
+(I)GWProcess] start communication
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)MashupReceiver] err: null
+####################################################
+log history open time: 2017/08/10 19:01:15
+####################################################
+(I)Configure] *** gateway configuration
+(I)Configure] *** context-awareness configuration
+(I)Configure] *** sensor configuration
+(I)Configure] *** home appliance configuration
+(I)Configure] *** service configuration
+(D)DAOGateway] Gateway [gwid=KW_GATEWAY_FOR_GJ, bd=kw-building, flr=6, lct=home, rt=2017-08-09 15:25:28.0]
+(I)GWProcess] gateway info.: Gateway [gwid=KW_GATEWAY_FOR_GJ, bd=kw-building, flr=6, lct=home, rt=2017-08-09 15:25:28.0]
+(I)ContextAwareness] success to set weka instance: arff/home/AirConditionControlService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-accs-1, svnm=AirConditionControlService, svvs=0.0.1, svif=null, ctg=env, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/EnvironmentControlService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-ecs-2, svnm=EnvironmentControlService, svvs=0.0.1, svif=null, ctg=env, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/LeaveToWorkService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-ltws-4, svnm=LeaveToWorkService, svvs=0.0.1, svif=null, ctg=eng, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/MirrorTVService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-mtvs-6, svnm=MirrorTVService, svvs=0.0.1, svif=null, ctg=ct, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/SleepWakeupService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-sws-9, svnm=SleepWakeupService, svvs=0.0.1, svif=null, ctg=cnt, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/MusicPlayService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-mps-7, svnm=MusicPlayService, svvs=0.0.1, svif=null, ctg=enj, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/WatchTVService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-wtvs-10, svnm=WatchTVService, svvs=0.0.1, svif=null, ctg=env, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/LightService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-lsgs-5, svnm=LightSmartGridService, svvs=0.0.1, svif=null, ctg=eng, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/GoToWorkService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-gtws-3, svnm=GoToWorkService, svvs=0.0.1, svif=null, ctg=eng, svtp=arff, rt=null]
+(C)DAOUser] 
+### Error updating database.  Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01058829549' for key 'PRIMARY'
+### The error may involve KWGATEWAY.insert_user-Inline
+### The error occurred while setting parameters
+### SQL: INSERT INTO user (    mphnb,    name,    afl,    ofc,    type,    tagid,    gwid)   VALUES (    ?,    ?,    ?,    ?,    ?,    ?,    ?)
+### Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01058829549' for key 'PRIMARY'
+(C)DAOUser] 
+### Error updating database.  Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01038395471' for key 'PRIMARY'
+### The error may involve KWGATEWAY.insert_user-Inline
+### The error occurred while setting parameters
+### SQL: INSERT INTO user (    mphnb,    name,    afl,    ofc,    type,    tagid,    gwid)   VALUES (    ?,    ?,    ?,    ?,    ?,    ?,    ?)
+### Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01038395471' for key 'PRIMARY'
+(C)DAOUser] 
+### Error updating database.  Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01048800311' for key 'PRIMARY'
+### The error may involve KWGATEWAY.insert_user-Inline
+### The error occurred while setting parameters
+### SQL: INSERT INTO user (    mphnb,    name,    afl,    ofc,    type,    tagid,    gwid)   VALUES (    ?,    ?,    ?,    ?,    ?,    ?,    ?)
+### Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01048800311' for key 'PRIMARY'
+(D)MashupReceiver] connected
+(I)GWProcess] start communication
+(I)MonitoringReceiver] connected: 127.0.0.1
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)MashupReceiver] err: null
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)MashupReceiver] connected
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(I)MirrorTVReceiver] connected: 192.168.0.16
+(D)MirrorTVReceiver] message: {"data":{"mrid":"keti-mirrortv-child","brtn":-1,"mrloc":10019},"to":"gateway","id":"keti-mtv-1","from":"mirror_tv","ctt":1,"ct":15,"mt":0,"cmd":0}
+(D)DataCollector] success to store a mirror TV
+(D)MirrorTVReceiver] message: {"data":{"mphnb":"01048800311","scdid":0},"to":"gateway","id":"keti-mtv-1","from":"mirror_tv","ctt":1,"ct":13,"mt":0,"cmd":1}
+(D)DAOSchedule] [Schedule [scdid=1, mphnb=01048800311, scdtl=  vhvhhgjh, scddt=2017-08-31, scdtm=00:00, scdmm=vhbhjbj, rt=2017-08-10 15:25:56.0]]
+(I)PhoneReceiver] connected: 192.168.0.16
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)PhoneReceiver] message: {"data":{"controlType":"IR","deviceType":"HEATER","manufacturer":"CHAOS","modelName":"MSH-2200S","power":"1800W","serialNumber":"4.0"},"to":"gateway","id":"keti-sp-1","from":"smartphone","ctt":1,"ct":14,"mt":0,"cmd":0}
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+####################################################
+log history open time: 2017/08/10 19:10:11
+####################################################
+(I)Configure] *** gateway configuration
+(I)Configure] *** context-awareness configuration
+(I)Configure] *** sensor configuration
+(I)Configure] *** home appliance configuration
+(I)Configure] *** service configuration
+(D)DAOGateway] Gateway [gwid=KW_GATEWAY_FOR_GJ, bd=kw-building, flr=6, lct=home, rt=2017-08-09 15:25:28.0]
+(I)GWProcess] gateway info.: Gateway [gwid=KW_GATEWAY_FOR_GJ, bd=kw-building, flr=6, lct=home, rt=2017-08-09 15:25:28.0]
+(I)ContextAwareness] success to set weka instance: arff/home/AirConditionControlService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-accs-1, svnm=AirConditionControlService, svvs=0.0.1, svif=null, ctg=env, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/EnvironmentControlService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-ecs-2, svnm=EnvironmentControlService, svvs=0.0.1, svif=null, ctg=env, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/LeaveToWorkService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-ltws-4, svnm=LeaveToWorkService, svvs=0.0.1, svif=null, ctg=eng, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/MirrorTVService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-mtvs-6, svnm=MirrorTVService, svvs=0.0.1, svif=null, ctg=ct, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/SleepWakeupService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-sws-9, svnm=SleepWakeupService, svvs=0.0.1, svif=null, ctg=cnt, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/MusicPlayService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-mps-7, svnm=MusicPlayService, svvs=0.0.1, svif=null, ctg=enj, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/WatchTVService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-wtvs-10, svnm=WatchTVService, svvs=0.0.1, svif=null, ctg=env, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/LightService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-lsgs-5, svnm=LightSmartGridService, svvs=0.0.1, svif=null, ctg=eng, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/GoToWorkService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-gtws-3, svnm=GoToWorkService, svvs=0.0.1, svif=null, ctg=eng, svtp=arff, rt=null]
+(C)DAOUser] 
+### Error updating database.  Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01058829549' for key 'PRIMARY'
+### The error may involve KWGATEWAY.insert_user-Inline
+### The error occurred while setting parameters
+### SQL: INSERT INTO user (    mphnb,    name,    afl,    ofc,    type,    tagid,    gwid)   VALUES (    ?,    ?,    ?,    ?,    ?,    ?,    ?)
+### Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01058829549' for key 'PRIMARY'
+(C)DAOUser] 
+### Error updating database.  Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01038395471' for key 'PRIMARY'
+### The error may involve KWGATEWAY.insert_user-Inline
+### The error occurred while setting parameters
+### SQL: INSERT INTO user (    mphnb,    name,    afl,    ofc,    type,    tagid,    gwid)   VALUES (    ?,    ?,    ?,    ?,    ?,    ?,    ?)
+### Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01038395471' for key 'PRIMARY'
+(C)DAOUser] 
+### Error updating database.  Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01048800311' for key 'PRIMARY'
+### The error may involve KWGATEWAY.insert_user-Inline
+### The error occurred while setting parameters
+### SQL: INSERT INTO user (    mphnb,    name,    afl,    ofc,    type,    tagid,    gwid)   VALUES (    ?,    ?,    ?,    ?,    ?,    ?,    ?)
+### Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01048800311' for key 'PRIMARY'
+(D)MashupReceiver] connected
+(I)MonitoringReceiver] connected: 127.0.0.1
+(I)GWProcess] start communication
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+####################################################
+log history open time: 2017/08/10 19:10:58
+####################################################
+(I)Configure] *** gateway configuration
+(I)Configure] *** context-awareness configuration
+(I)Configure] *** sensor configuration
+(I)Configure] *** home appliance configuration
+(I)Configure] *** service configuration
+(D)DAOGateway] Gateway [gwid=KW_GATEWAY_FOR_GJ, bd=kw-building, flr=6, lct=home, rt=2017-08-09 15:25:28.0]
+(I)GWProcess] gateway info.: Gateway [gwid=KW_GATEWAY_FOR_GJ, bd=kw-building, flr=6, lct=home, rt=2017-08-09 15:25:28.0]
+(I)ContextAwareness] success to set weka instance: arff/home/AirConditionControlService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-accs-1, svnm=AirConditionControlService, svvs=0.0.1, svif=null, ctg=env, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/EnvironmentControlService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-ecs-2, svnm=EnvironmentControlService, svvs=0.0.1, svif=null, ctg=env, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/LeaveToWorkService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-ltws-4, svnm=LeaveToWorkService, svvs=0.0.1, svif=null, ctg=eng, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/MirrorTVService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-mtvs-6, svnm=MirrorTVService, svvs=0.0.1, svif=null, ctg=ct, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/SleepWakeupService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-sws-9, svnm=SleepWakeupService, svvs=0.0.1, svif=null, ctg=cnt, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/MusicPlayService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-mps-7, svnm=MusicPlayService, svvs=0.0.1, svif=null, ctg=enj, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/WatchTVService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-wtvs-10, svnm=WatchTVService, svvs=0.0.1, svif=null, ctg=env, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/LightService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-lsgs-5, svnm=LightSmartGridService, svvs=0.0.1, svif=null, ctg=eng, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/GoToWorkService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-gtws-3, svnm=GoToWorkService, svvs=0.0.1, svif=null, ctg=eng, svtp=arff, rt=null]
+(C)DAOUser] 
+### Error updating database.  Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01058829549' for key 'PRIMARY'
+### The error may involve KWGATEWAY.insert_user-Inline
+### The error occurred while setting parameters
+### SQL: INSERT INTO user (    mphnb,    name,    afl,    ofc,    type,    tagid,    gwid)   VALUES (    ?,    ?,    ?,    ?,    ?,    ?,    ?)
+### Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01058829549' for key 'PRIMARY'
+(C)DAOUser] 
+### Error updating database.  Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01038395471' for key 'PRIMARY'
+### The error may involve KWGATEWAY.insert_user-Inline
+### The error occurred while setting parameters
+### SQL: INSERT INTO user (    mphnb,    name,    afl,    ofc,    type,    tagid,    gwid)   VALUES (    ?,    ?,    ?,    ?,    ?,    ?,    ?)
+### Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01038395471' for key 'PRIMARY'
+(C)DAOUser] 
+### Error updating database.  Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01048800311' for key 'PRIMARY'
+### The error may involve KWGATEWAY.insert_user-Inline
+### The error occurred while setting parameters
+### SQL: INSERT INTO user (    mphnb,    name,    afl,    ofc,    type,    tagid,    gwid)   VALUES (    ?,    ?,    ?,    ?,    ?,    ?,    ?)
+### Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01048800311' for key 'PRIMARY'
+(D)MashupReceiver] connected
+(I)GWProcess] start communication
+(I)MonitoringReceiver] connected: 127.0.0.1
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(I)MirrorTVReceiver] connected: 192.168.0.16
+(D)MirrorTVReceiver] message: {"data":{"mrid":"keti-mirrortv-child","brtn":-1,"mrloc":10019},"to":"gateway","id":"keti-mtv-1","from":"mirror_tv","ctt":1,"ct":15,"mt":0,"cmd":0}
+(D)DataCollector] success to store a mirror TV
+(D)MirrorTVReceiver] message: {"data":{"mphnb":"01048800311","scdid":0},"to":"gateway","id":"keti-mtv-1","from":"mirror_tv","ctt":1,"ct":13,"mt":0,"cmd":1}
+(D)DAOSchedule] [Schedule [scdid=1, mphnb=01048800311, scdtl=  vhvhhgjh, scddt=2017-08-31, scdtm=00:00, scdmm=vhbhjbj, rt=2017-08-10 15:25:56.0]]
+(I)PhoneReceiver] connected: 192.168.0.16
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)PhoneReceiver] message: {"data":{"controlType":"IR","deviceType":"HEATER","manufacturer":"CHAOS","modelName":"MSH-2200S","power":"1800W","serialNumber":"4.0"},"to":"gateway","id":"keti-sp-1","from":"smartphone","ctt":1,"ct":14,"mt":0,"cmd":0}
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+####################################################
+log history open time: 2017/08/10 19:14:38
+####################################################
+(I)Configure] *** gateway configuration
+(I)Configure] *** context-awareness configuration
+(I)Configure] *** sensor configuration
+(I)Configure] *** home appliance configuration
+(I)Configure] *** service configuration
+(D)DAOGateway] Gateway [gwid=KW_GATEWAY_FOR_GJ, bd=kw-building, flr=6, lct=home, rt=2017-08-09 15:25:28.0]
+(I)GWProcess] gateway info.: Gateway [gwid=KW_GATEWAY_FOR_GJ, bd=kw-building, flr=6, lct=home, rt=2017-08-09 15:25:28.0]
+(I)ContextAwareness] success to set weka instance: arff/home/AirConditionControlService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-accs-1, svnm=AirConditionControlService, svvs=0.0.1, svif=null, ctg=env, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/EnvironmentControlService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-ecs-2, svnm=EnvironmentControlService, svvs=0.0.1, svif=null, ctg=env, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/LeaveToWorkService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-ltws-4, svnm=LeaveToWorkService, svvs=0.0.1, svif=null, ctg=eng, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/MirrorTVService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-mtvs-6, svnm=MirrorTVService, svvs=0.0.1, svif=null, ctg=ct, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/SleepWakeupService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-sws-9, svnm=SleepWakeupService, svvs=0.0.1, svif=null, ctg=cnt, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/MusicPlayService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-mps-7, svnm=MusicPlayService, svvs=0.0.1, svif=null, ctg=enj, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/WatchTVService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-wtvs-10, svnm=WatchTVService, svvs=0.0.1, svif=null, ctg=env, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/LightService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-lsgs-5, svnm=LightSmartGridService, svvs=0.0.1, svif=null, ctg=eng, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/GoToWorkService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-gtws-3, svnm=GoToWorkService, svvs=0.0.1, svif=null, ctg=eng, svtp=arff, rt=null]
+(C)DAOUser] 
+### Error updating database.  Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01058829549' for key 'PRIMARY'
+### The error may involve KWGATEWAY.insert_user-Inline
+### The error occurred while setting parameters
+### SQL: INSERT INTO user (    mphnb,    name,    afl,    ofc,    type,    tagid,    gwid)   VALUES (    ?,    ?,    ?,    ?,    ?,    ?,    ?)
+### Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01058829549' for key 'PRIMARY'
+(C)DAOUser] 
+### Error updating database.  Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01038395471' for key 'PRIMARY'
+### The error may involve KWGATEWAY.insert_user-Inline
+### The error occurred while setting parameters
+### SQL: INSERT INTO user (    mphnb,    name,    afl,    ofc,    type,    tagid,    gwid)   VALUES (    ?,    ?,    ?,    ?,    ?,    ?,    ?)
+### Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01038395471' for key 'PRIMARY'
+(C)DAOUser] 
+### Error updating database.  Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01048800311' for key 'PRIMARY'
+### The error may involve KWGATEWAY.insert_user-Inline
+### The error occurred while setting parameters
+### SQL: INSERT INTO user (    mphnb,    name,    afl,    ofc,    type,    tagid,    gwid)   VALUES (    ?,    ?,    ?,    ?,    ?,    ?,    ?)
+### Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01048800311' for key 'PRIMARY'
+(D)MashupReceiver] connected
+(I)MonitoringReceiver] connected: 127.0.0.1
+(I)GWProcess] start communication
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)MashupReceiver] err: null
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)MashupReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)MashupReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)MashupReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)MashupReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)MashupReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)MashupReceiver] connected
+####################################################
+log history open time: 2017/08/10 19:36:21
+####################################################
+(I)Configure] *** gateway configuration
+(I)Configure] *** context-awareness configuration
+(I)Configure] *** sensor configuration
+(I)Configure] *** home appliance configuration
+(I)Configure] *** service configuration
+(D)DAOGateway] Gateway [gwid=KW_GATEWAY_FOR_GJ, bd=kw-building, flr=6, lct=home, rt=2017-08-09 15:25:28.0]
+(I)GWProcess] gateway info.: Gateway [gwid=KW_GATEWAY_FOR_GJ, bd=kw-building, flr=6, lct=home, rt=2017-08-09 15:25:28.0]
+(I)ContextAwareness] success to set weka instance: arff/home/AirConditionControlService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-accs-1, svnm=AirConditionControlService, svvs=0.0.1, svif=null, ctg=env, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/EnvironmentControlService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-ecs-2, svnm=EnvironmentControlService, svvs=0.0.1, svif=null, ctg=env, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/LeaveToWorkService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-ltws-4, svnm=LeaveToWorkService, svvs=0.0.1, svif=null, ctg=eng, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/MirrorTVService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-mtvs-6, svnm=MirrorTVService, svvs=0.0.1, svif=null, ctg=ct, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/SleepWakeupService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-sws-9, svnm=SleepWakeupService, svvs=0.0.1, svif=null, ctg=cnt, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/MusicPlayService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-mps-7, svnm=MusicPlayService, svvs=0.0.1, svif=null, ctg=enj, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/WatchTVService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-wtvs-10, svnm=WatchTVService, svvs=0.0.1, svif=null, ctg=env, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/LightService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-lsgs-5, svnm=LightSmartGridService, svvs=0.0.1, svif=null, ctg=eng, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/GoToWorkService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-gtws-3, svnm=GoToWorkService, svvs=0.0.1, svif=null, ctg=eng, svtp=arff, rt=null]
+(C)DAOUser] 
+### Error updating database.  Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01058829549' for key 'PRIMARY'
+### The error may involve KWGATEWAY.insert_user-Inline
+### The error occurred while setting parameters
+### SQL: INSERT INTO user (    mphnb,    name,    afl,    ofc,    type,    tagid,    gwid)   VALUES (    ?,    ?,    ?,    ?,    ?,    ?,    ?)
+### Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01058829549' for key 'PRIMARY'
+(C)DAOUser] 
+### Error updating database.  Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01038395471' for key 'PRIMARY'
+### The error may involve KWGATEWAY.insert_user-Inline
+### The error occurred while setting parameters
+### SQL: INSERT INTO user (    mphnb,    name,    afl,    ofc,    type,    tagid,    gwid)   VALUES (    ?,    ?,    ?,    ?,    ?,    ?,    ?)
+### Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01038395471' for key 'PRIMARY'
+(C)DAOUser] 
+### Error updating database.  Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01048800311' for key 'PRIMARY'
+### The error may involve KWGATEWAY.insert_user-Inline
+### The error occurred while setting parameters
+### SQL: INSERT INTO user (    mphnb,    name,    afl,    ofc,    type,    tagid,    gwid)   VALUES (    ?,    ?,    ?,    ?,    ?,    ?,    ?)
+### Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01048800311' for key 'PRIMARY'
+(D)MashupReceiver] connected
+(D)MashupFileReceiver] connected
+(I)GWProcess] start communication
+(D)MashupReceiver] {"data":[{"gwid":"KW_GATEWAY_FOR_GJ","svid":"41","svnm":"HeaterControlService","svvs":"0.0.1","svif":"heater_on_off_turn_strong_weak","ctg":"control","rt":"2017-07-21 19:00:43.0"}],"to":"gateway","from":"mashup","id":"keti-mash-1","mt":0,"cmd":2,"ct":16,"ctt":2}
+(D)MashupManager] put: [Service [gwid=KW_GATEWAY_FOR_GJ, svid=41, svnm=HeaterControlService, svvs=0.0.1, svif=heater_on_off_turn_strong_weak, ctg=control, svtp=null, rt=2017-07-21 19:00:43.0]]
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(I)MonitoringReceiver] connected: 127.0.0.1
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+####################################################
+log history open time: 2017/08/10 19:39:59
+####################################################
+(I)Configure] *** gateway configuration
+(I)Configure] *** context-awareness configuration
+(I)Configure] *** sensor configuration
+(I)Configure] *** home appliance configuration
+(I)Configure] *** service configuration
+(D)DAOGateway] Gateway [gwid=KW_GATEWAY_FOR_GJ, bd=kw-building, flr=6, lct=home, rt=2017-08-09 15:25:28.0]
+(I)GWProcess] gateway info.: Gateway [gwid=KW_GATEWAY_FOR_GJ, bd=kw-building, flr=6, lct=home, rt=2017-08-09 15:25:28.0]
+(I)ContextAwareness] success to set weka instance: arff/home/AirConditionControlService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-accs-1, svnm=AirConditionControlService, svvs=0.0.1, svif=null, ctg=env, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/EnvironmentControlService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-ecs-2, svnm=EnvironmentControlService, svvs=0.0.1, svif=null, ctg=env, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/LeaveToWorkService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-ltws-4, svnm=LeaveToWorkService, svvs=0.0.1, svif=null, ctg=eng, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/MirrorTVService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-mtvs-6, svnm=MirrorTVService, svvs=0.0.1, svif=null, ctg=ct, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/SleepWakeupService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-sws-9, svnm=SleepWakeupService, svvs=0.0.1, svif=null, ctg=cnt, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/MusicPlayService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-mps-7, svnm=MusicPlayService, svvs=0.0.1, svif=null, ctg=enj, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/WatchTVService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-wtvs-10, svnm=WatchTVService, svvs=0.0.1, svif=null, ctg=env, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/LightService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-lsgs-5, svnm=LightSmartGridService, svvs=0.0.1, svif=null, ctg=eng, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/GoToWorkService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-gtws-3, svnm=GoToWorkService, svvs=0.0.1, svif=null, ctg=eng, svtp=arff, rt=null]
+(C)DAOUser] 
+### Error updating database.  Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01058829549' for key 'PRIMARY'
+### The error may involve KWGATEWAY.insert_user-Inline
+### The error occurred while setting parameters
+### SQL: INSERT INTO user (    mphnb,    name,    afl,    ofc,    type,    tagid,    gwid)   VALUES (    ?,    ?,    ?,    ?,    ?,    ?,    ?)
+### Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01058829549' for key 'PRIMARY'
+(C)DAOUser] 
+### Error updating database.  Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01038395471' for key 'PRIMARY'
+### The error may involve KWGATEWAY.insert_user-Inline
+### The error occurred while setting parameters
+### SQL: INSERT INTO user (    mphnb,    name,    afl,    ofc,    type,    tagid,    gwid)   VALUES (    ?,    ?,    ?,    ?,    ?,    ?,    ?)
+### Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01038395471' for key 'PRIMARY'
+(C)DAOUser] 
+### Error updating database.  Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01048800311' for key 'PRIMARY'
+### The error may involve KWGATEWAY.insert_user-Inline
+### The error occurred while setting parameters
+### SQL: INSERT INTO user (    mphnb,    name,    afl,    ofc,    type,    tagid,    gwid)   VALUES (    ?,    ?,    ?,    ?,    ?,    ?,    ?)
+### Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01048800311' for key 'PRIMARY'
+(D)MashupFileReceiver] connected
+(D)MashupReceiver] connected
+(D)MashupReceiver] {"data":[{"gwid":"KW_GATEWAY_FOR_GJ","svid":"41","svnm":"HeaterControlService","svvs":"0.0.1","svif":"heater_on_off_turn_strong_weak","ctg":"control","rt":"2017-07-21 19:00:43.0"}],"to":"gateway","from":"mashup","id":"keti-mash-1","mt":0,"cmd":2,"ct":16,"ctt":2}
+(D)MashupManager] put: [Service [gwid=KW_GATEWAY_FOR_GJ, svid=41, svnm=HeaterControlService, svvs=0.0.1, svif=heater_on_off_turn_strong_weak, ctg=control, svtp=null, rt=2017-07-21 19:00:43.0]]
+(I)MonitoringReceiver] connected: 127.0.0.1
+(I)GWProcess] start communication
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+####################################################
+log history open time: 2017/08/10 19:40:52
+####################################################
+(I)Configure] *** gateway configuration
+(I)Configure] *** context-awareness configuration
+(I)Configure] *** sensor configuration
+(I)Configure] *** home appliance configuration
+(I)Configure] *** service configuration
+(D)DAOGateway] Gateway [gwid=KW_GATEWAY_FOR_GJ, bd=kw-building, flr=6, lct=home, rt=2017-08-09 15:25:28.0]
+(I)GWProcess] gateway info.: Gateway [gwid=KW_GATEWAY_FOR_GJ, bd=kw-building, flr=6, lct=home, rt=2017-08-09 15:25:28.0]
+(I)ContextAwareness] success to set weka instance: arff/home/AirConditionControlService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-accs-1, svnm=AirConditionControlService, svvs=0.0.1, svif=null, ctg=env, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/EnvironmentControlService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-ecs-2, svnm=EnvironmentControlService, svvs=0.0.1, svif=null, ctg=env, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/LeaveToWorkService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-ltws-4, svnm=LeaveToWorkService, svvs=0.0.1, svif=null, ctg=eng, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/MirrorTVService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-mtvs-6, svnm=MirrorTVService, svvs=0.0.1, svif=null, ctg=ct, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/SleepWakeupService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-sws-9, svnm=SleepWakeupService, svvs=0.0.1, svif=null, ctg=cnt, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/MusicPlayService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-mps-7, svnm=MusicPlayService, svvs=0.0.1, svif=null, ctg=enj, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/WatchTVService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-wtvs-10, svnm=WatchTVService, svvs=0.0.1, svif=null, ctg=env, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/LightService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-lsgs-5, svnm=LightSmartGridService, svvs=0.0.1, svif=null, ctg=eng, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/GoToWorkService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-gtws-3, svnm=GoToWorkService, svvs=0.0.1, svif=null, ctg=eng, svtp=arff, rt=null]
+(C)DAOUser] 
+### Error updating database.  Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01058829549' for key 'PRIMARY'
+### The error may involve KWGATEWAY.insert_user-Inline
+### The error occurred while setting parameters
+### SQL: INSERT INTO user (    mphnb,    name,    afl,    ofc,    type,    tagid,    gwid)   VALUES (    ?,    ?,    ?,    ?,    ?,    ?,    ?)
+### Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01058829549' for key 'PRIMARY'
+(C)DAOUser] 
+### Error updating database.  Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01038395471' for key 'PRIMARY'
+### The error may involve KWGATEWAY.insert_user-Inline
+### The error occurred while setting parameters
+### SQL: INSERT INTO user (    mphnb,    name,    afl,    ofc,    type,    tagid,    gwid)   VALUES (    ?,    ?,    ?,    ?,    ?,    ?,    ?)
+### Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01038395471' for key 'PRIMARY'
+(C)DAOUser] 
+### Error updating database.  Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01048800311' for key 'PRIMARY'
+### The error may involve KWGATEWAY.insert_user-Inline
+### The error occurred while setting parameters
+### SQL: INSERT INTO user (    mphnb,    name,    afl,    ofc,    type,    tagid,    gwid)   VALUES (    ?,    ?,    ?,    ?,    ?,    ?,    ?)
+### Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01048800311' for key 'PRIMARY'
+(D)MashupReceiver] connected
+(D)MashupFileReceiver] connected
+(D)MashupReceiver] {"data":[{"gwid":"KW_GATEWAY_FOR_GJ","svid":"41","svnm":"HeaterControlService","svvs":"0.0.1","svif":"heater_on_off_turn_strong_weak","ctg":"control","rt":"2017-07-21 19:00:43.0"}],"to":"gateway","from":"mashup","id":"keti-mash-1","mt":0,"cmd":2,"ct":16,"ctt":2}
+(D)MashupManager] put: [Service [gwid=KW_GATEWAY_FOR_GJ, svid=41, svnm=HeaterControlService, svvs=0.0.1, svif=heater_on_off_turn_strong_weak, ctg=control, svtp=null, rt=2017-07-21 19:00:43.0]]
+(I)MonitoringReceiver] connected: 127.0.0.1
+(I)GWProcess] start communication
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(I)MonitoringReceiver] disconnected: 127.0.0.1
+(I)MonitoringReceiver] connected: 127.0.0.1
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(I)MonitoringReceiver] connected: 127.0.0.1
+(I)MonitoringReceiver] disconnected: 127.0.0.1
+(I)MonitoringReceiver] disconnected: 127.0.0.1
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+####################################################
+log history open time: 2017/08/10 19:42:07
+####################################################
+(I)Configure] *** gateway configuration
+(I)Configure] *** context-awareness configuration
+(I)Configure] *** sensor configuration
+(I)Configure] *** home appliance configuration
+(I)Configure] *** service configuration
+(D)DAOGateway] Gateway [gwid=KW_GATEWAY_FOR_GJ, bd=kw-building, flr=6, lct=home, rt=2017-08-09 15:25:28.0]
+(I)GWProcess] gateway info.: Gateway [gwid=KW_GATEWAY_FOR_GJ, bd=kw-building, flr=6, lct=home, rt=2017-08-09 15:25:28.0]
+(I)ContextAwareness] success to set weka instance: arff/home/AirConditionControlService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-accs-1, svnm=AirConditionControlService, svvs=0.0.1, svif=null, ctg=env, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/EnvironmentControlService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-ecs-2, svnm=EnvironmentControlService, svvs=0.0.1, svif=null, ctg=env, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/LeaveToWorkService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-ltws-4, svnm=LeaveToWorkService, svvs=0.0.1, svif=null, ctg=eng, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/MirrorTVService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-mtvs-6, svnm=MirrorTVService, svvs=0.0.1, svif=null, ctg=ct, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/SleepWakeupService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-sws-9, svnm=SleepWakeupService, svvs=0.0.1, svif=null, ctg=cnt, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/MusicPlayService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-mps-7, svnm=MusicPlayService, svvs=0.0.1, svif=null, ctg=enj, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/WatchTVService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-wtvs-10, svnm=WatchTVService, svvs=0.0.1, svif=null, ctg=env, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/LightService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-lsgs-5, svnm=LightSmartGridService, svvs=0.0.1, svif=null, ctg=eng, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/GoToWorkService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-gtws-3, svnm=GoToWorkService, svvs=0.0.1, svif=null, ctg=eng, svtp=arff, rt=null]
+(C)DAOUser] 
+### Error updating database.  Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01058829549' for key 'PRIMARY'
+### The error may involve KWGATEWAY.insert_user-Inline
+### The error occurred while setting parameters
+### SQL: INSERT INTO user (    mphnb,    name,    afl,    ofc,    type,    tagid,    gwid)   VALUES (    ?,    ?,    ?,    ?,    ?,    ?,    ?)
+### Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01058829549' for key 'PRIMARY'
+(C)DAOUser] 
+### Error updating database.  Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01038395471' for key 'PRIMARY'
+### The error may involve KWGATEWAY.insert_user-Inline
+### The error occurred while setting parameters
+### SQL: INSERT INTO user (    mphnb,    name,    afl,    ofc,    type,    tagid,    gwid)   VALUES (    ?,    ?,    ?,    ?,    ?,    ?,    ?)
+### Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01038395471' for key 'PRIMARY'
+(C)DAOUser] 
+### Error updating database.  Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01048800311' for key 'PRIMARY'
+### The error may involve KWGATEWAY.insert_user-Inline
+### The error occurred while setting parameters
+### SQL: INSERT INTO user (    mphnb,    name,    afl,    ofc,    type,    tagid,    gwid)   VALUES (    ?,    ?,    ?,    ?,    ?,    ?,    ?)
+### Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01048800311' for key 'PRIMARY'
+(D)MashupFileReceiver] connected
+(D)MashupReceiver] connected
+(D)MashupReceiver] {"data":[{"gwid":"KW_GATEWAY_FOR_GJ","svid":"41","svnm":"HeaterControlService","svvs":"0.0.1","svif":"heater_on_off_turn_strong_weak","ctg":"control","rt":"2017-07-21 19:00:43.0"}],"to":"gateway","from":"mashup","id":"keti-mash-1","mt":0,"cmd":2,"ct":16,"ctt":2}
+(D)MashupManager] put: [Service [gwid=KW_GATEWAY_FOR_GJ, svid=41, svnm=HeaterControlService, svvs=0.0.1, svif=heater_on_off_turn_strong_weak, ctg=control, svtp=null, rt=2017-07-21 19:00:43.0]]
+(I)GWProcess] start communication
+(I)MonitoringReceiver] connected: 127.0.0.1
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(I)MirrorTVReceiver] connected: 192.168.0.16
+(D)MirrorTVReceiver] message: {"data":{"mrid":"keti-mirrortv-child","brtn":-1,"mrloc":10019},"to":"gateway","id":"keti-mtv-1","from":"mirror_tv","ctt":1,"ct":15,"mt":0,"cmd":0}
+(D)DataCollector] success to store a mirror TV
+(D)MirrorTVReceiver] message: {"data":{"mphnb":"01048800311","scdid":0},"to":"gateway","id":"keti-mtv-1","from":"mirror_tv","ctt":1,"ct":13,"mt":0,"cmd":1}
+(D)DAOSchedule] [Schedule [scdid=1, mphnb=01048800311, scdtl=  vhvhhgjh, scddt=2017-08-31, scdtm=00:00, scdmm=vhbhjbj, rt=2017-08-10 15:25:56.0]]
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+####################################################
+log history open time: 2017/08/10 19:46:23
+####################################################
+(I)Configure] *** gateway configuration
+(I)Configure] *** context-awareness configuration
+(I)Configure] *** sensor configuration
+(I)Configure] *** home appliance configuration
+(I)Configure] *** service configuration
+(D)DAOGateway] Gateway [gwid=KW_GATEWAY_FOR_GJ, bd=kw-building, flr=6, lct=home, rt=2017-08-09 15:25:28.0]
+(I)GWProcess] gateway info.: Gateway [gwid=KW_GATEWAY_FOR_GJ, bd=kw-building, flr=6, lct=home, rt=2017-08-09 15:25:28.0]
+(I)ContextAwareness] success to set weka instance: arff/home/AirConditionControlService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-accs-1, svnm=AirConditionControlService, svvs=0.0.1, svif=null, ctg=env, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/EnvironmentControlService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-ecs-2, svnm=EnvironmentControlService, svvs=0.0.1, svif=null, ctg=env, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/LeaveToWorkService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-ltws-4, svnm=LeaveToWorkService, svvs=0.0.1, svif=null, ctg=eng, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/MirrorTVService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-mtvs-6, svnm=MirrorTVService, svvs=0.0.1, svif=null, ctg=ct, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/SleepWakeupService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-sws-9, svnm=SleepWakeupService, svvs=0.0.1, svif=null, ctg=cnt, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/MusicPlayService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-mps-7, svnm=MusicPlayService, svvs=0.0.1, svif=null, ctg=enj, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/WatchTVService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-wtvs-10, svnm=WatchTVService, svvs=0.0.1, svif=null, ctg=env, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/LightService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-lsgs-5, svnm=LightSmartGridService, svvs=0.0.1, svif=null, ctg=eng, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/GoToWorkService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-gtws-3, svnm=GoToWorkService, svvs=0.0.1, svif=null, ctg=eng, svtp=arff, rt=null]
+(C)DAOUser] 
+### Error updating database.  Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01058829549' for key 'PRIMARY'
+### The error may involve KWGATEWAY.insert_user-Inline
+### The error occurred while setting parameters
+### SQL: INSERT INTO user (    mphnb,    name,    afl,    ofc,    type,    tagid,    gwid)   VALUES (    ?,    ?,    ?,    ?,    ?,    ?,    ?)
+### Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01058829549' for key 'PRIMARY'
+(C)DAOUser] 
+### Error updating database.  Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01038395471' for key 'PRIMARY'
+### The error may involve KWGATEWAY.insert_user-Inline
+### The error occurred while setting parameters
+### SQL: INSERT INTO user (    mphnb,    name,    afl,    ofc,    type,    tagid,    gwid)   VALUES (    ?,    ?,    ?,    ?,    ?,    ?,    ?)
+### Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01038395471' for key 'PRIMARY'
+(C)DAOUser] 
+### Error updating database.  Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01048800311' for key 'PRIMARY'
+### The error may involve KWGATEWAY.insert_user-Inline
+### The error occurred while setting parameters
+### SQL: INSERT INTO user (    mphnb,    name,    afl,    ofc,    type,    tagid,    gwid)   VALUES (    ?,    ?,    ?,    ?,    ?,    ?,    ?)
+### Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01048800311' for key 'PRIMARY'
+(D)MashupReceiver] connected
+(D)MashupFileReceiver] connected
+(D)MashupReceiver] {"data":[{"gwid":"KW_GATEWAY_FOR_GJ","svid":"41","svnm":"HeaterControlService","svvs":"0.0.1","svif":"heater_on_off_turn_strong_weak","ctg":"control","rt":"2017-07-21 19:00:43.0"}],"to":"gateway","from":"mashup","id":"keti-mash-1","mt":0,"cmd":2,"ct":16,"ctt":2}
+(D)MashupManager] put: [Service [gwid=KW_GATEWAY_FOR_GJ, svid=41, svnm=HeaterControlService, svvs=0.0.1, svif=heater_on_off_turn_strong_weak, ctg=control, svtp=null, rt=2017-07-21 19:00:43.0]]
+(I)GWProcess] start communication
+(I)MonitoringReceiver] connected: 127.0.0.1
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(I)PhoneReceiver] connected: 192.168.0.16
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)PhoneReceiver] message: {"data":{"controlType":"IR","deviceType":"HEATER","manufacturer":"CHAOS","modelName":"MSH-2200S","power":"1800W","serialNumber":"4.0"},"to":"gateway","id":"keti-sp-1","from":"smartphone","ctt":1,"ct":14,"mt":0,"cmd":0}
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+####################################################
+log history open time: 2017/08/10 19:48:17
+####################################################
+(I)Configure] *** gateway configuration
+(I)Configure] *** context-awareness configuration
+(I)Configure] *** sensor configuration
+(I)Configure] *** home appliance configuration
+(I)Configure] *** service configuration
+(D)DAOGateway] Gateway [gwid=KW_GATEWAY_FOR_GJ, bd=kw-building, flr=6, lct=home, rt=2017-08-09 15:25:28.0]
+(I)GWProcess] gateway info.: Gateway [gwid=KW_GATEWAY_FOR_GJ, bd=kw-building, flr=6, lct=home, rt=2017-08-09 15:25:28.0]
+(I)ContextAwareness] success to set weka instance: arff/home/AirConditionControlService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-accs-1, svnm=AirConditionControlService, svvs=0.0.1, svif=null, ctg=env, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/EnvironmentControlService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-ecs-2, svnm=EnvironmentControlService, svvs=0.0.1, svif=null, ctg=env, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/LeaveToWorkService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-ltws-4, svnm=LeaveToWorkService, svvs=0.0.1, svif=null, ctg=eng, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/MirrorTVService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-mtvs-6, svnm=MirrorTVService, svvs=0.0.1, svif=null, ctg=ct, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/SleepWakeupService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-sws-9, svnm=SleepWakeupService, svvs=0.0.1, svif=null, ctg=cnt, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/MusicPlayService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-mps-7, svnm=MusicPlayService, svvs=0.0.1, svif=null, ctg=enj, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/WatchTVService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-wtvs-10, svnm=WatchTVService, svvs=0.0.1, svif=null, ctg=env, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/LightService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-lsgs-5, svnm=LightSmartGridService, svvs=0.0.1, svif=null, ctg=eng, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/GoToWorkService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-gtws-3, svnm=GoToWorkService, svvs=0.0.1, svif=null, ctg=eng, svtp=arff, rt=null]
+(C)DAOUser] 
+### Error updating database.  Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01058829549' for key 'PRIMARY'
+### The error may involve KWGATEWAY.insert_user-Inline
+### The error occurred while setting parameters
+### SQL: INSERT INTO user (    mphnb,    name,    afl,    ofc,    type,    tagid,    gwid)   VALUES (    ?,    ?,    ?,    ?,    ?,    ?,    ?)
+### Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01058829549' for key 'PRIMARY'
+(C)DAOUser] 
+### Error updating database.  Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01038395471' for key 'PRIMARY'
+### The error may involve KWGATEWAY.insert_user-Inline
+### The error occurred while setting parameters
+### SQL: INSERT INTO user (    mphnb,    name,    afl,    ofc,    type,    tagid,    gwid)   VALUES (    ?,    ?,    ?,    ?,    ?,    ?,    ?)
+### Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01038395471' for key 'PRIMARY'
+(C)DAOUser] 
+### Error updating database.  Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01048800311' for key 'PRIMARY'
+### The error may involve KWGATEWAY.insert_user-Inline
+### The error occurred while setting parameters
+### SQL: INSERT INTO user (    mphnb,    name,    afl,    ofc,    type,    tagid,    gwid)   VALUES (    ?,    ?,    ?,    ?,    ?,    ?,    ?)
+### Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01048800311' for key 'PRIMARY'
+(D)MashupReceiver] connected
+(D)MashupFileReceiver] connected
+(I)MonitoringReceiver] connected: 127.0.0.1
+(I)GWProcess] start communication
+(D)MashupReceiver] {"data":[{"gwid":"KW_GATEWAY_FOR_GJ","svid":"41","svnm":"HeaterControlService","svvs":"0.0.1","svif":"heater_on_off_turn_strong_weak","ctg":"control","rt":"2017-07-21 19:00:43.0"}],"to":"gateway","from":"mashup","id":"keti-mash-1","mt":0,"cmd":2,"ct":16,"ctt":2}
+(D)MashupManager] put: [Service [gwid=KW_GATEWAY_FOR_GJ, svid=41, svnm=HeaterControlService, svvs=0.0.1, svif=heater_on_off_turn_strong_weak, ctg=control, svtp=null, rt=2017-07-21 19:00:43.0]]
+(D)MonitoringReceiver] message: {"data":{"gwid":"KW_GATEWAY_FOR_GJ","svid":"41","svnm":"HeaterControlService","svvs":"0.0.1","svif":"heater_on_off_turn_strong_weak","ctg":"control","rt":"2017-07-21 19:00:43.0"},"from":"HOME_MONITORING","to":"HOME_GATEWAY","username":"user2","type":3,"cmd":1,"count":1,"content":1}
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(I)PhoneReceiver] connected: 192.168.0.16
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)PhoneReceiver] message: {"data":{"controlType":"IR","deviceType":"HEATER","manufacturer":"CHAOS","modelName":"MSH-2200S","power":"1800W","serialNumber":"4.0"},"to":"gateway","id":"keti-sp-1","from":"smartphone","ctt":1,"ct":14,"mt":0,"cmd":0}
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+####################################################
+log history open time: 2017/08/10 19:50:59
+####################################################
+(I)Configure] *** gateway configuration
+(I)Configure] *** context-awareness configuration
+(I)Configure] *** sensor configuration
+(I)Configure] *** home appliance configuration
+(I)Configure] *** service configuration
+(D)DAOGateway] Gateway [gwid=KW_GATEWAY_FOR_GJ, bd=kw-building, flr=6, lct=home, rt=2017-08-09 15:25:28.0]
+(I)GWProcess] gateway info.: Gateway [gwid=KW_GATEWAY_FOR_GJ, bd=kw-building, flr=6, lct=home, rt=2017-08-09 15:25:28.0]
+(I)ContextAwareness] success to set weka instance: arff/home/AirConditionControlService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-accs-1, svnm=AirConditionControlService, svvs=0.0.1, svif=null, ctg=env, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/EnvironmentControlService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-ecs-2, svnm=EnvironmentControlService, svvs=0.0.1, svif=null, ctg=env, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/LeaveToWorkService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-ltws-4, svnm=LeaveToWorkService, svvs=0.0.1, svif=null, ctg=eng, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/MirrorTVService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-mtvs-6, svnm=MirrorTVService, svvs=0.0.1, svif=null, ctg=ct, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/SleepWakeupService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-sws-9, svnm=SleepWakeupService, svvs=0.0.1, svif=null, ctg=cnt, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/MusicPlayService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-mps-7, svnm=MusicPlayService, svvs=0.0.1, svif=null, ctg=enj, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/WatchTVService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-wtvs-10, svnm=WatchTVService, svvs=0.0.1, svif=null, ctg=env, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/LightService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-lsgs-5, svnm=LightSmartGridService, svvs=0.0.1, svif=null, ctg=eng, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/GoToWorkService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-gtws-3, svnm=GoToWorkService, svvs=0.0.1, svif=null, ctg=eng, svtp=arff, rt=null]
+(C)DAOUser] 
+### Error updating database.  Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01058829549' for key 'PRIMARY'
+### The error may involve KWGATEWAY.insert_user-Inline
+### The error occurred while setting parameters
+### SQL: INSERT INTO user (    mphnb,    name,    afl,    ofc,    type,    tagid,    gwid)   VALUES (    ?,    ?,    ?,    ?,    ?,    ?,    ?)
+### Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01058829549' for key 'PRIMARY'
+(C)DAOUser] 
+### Error updating database.  Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01038395471' for key 'PRIMARY'
+### The error may involve KWGATEWAY.insert_user-Inline
+### The error occurred while setting parameters
+### SQL: INSERT INTO user (    mphnb,    name,    afl,    ofc,    type,    tagid,    gwid)   VALUES (    ?,    ?,    ?,    ?,    ?,    ?,    ?)
+### Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01038395471' for key 'PRIMARY'
+(C)DAOUser] 
+### Error updating database.  Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01048800311' for key 'PRIMARY'
+### The error may involve KWGATEWAY.insert_user-Inline
+### The error occurred while setting parameters
+### SQL: INSERT INTO user (    mphnb,    name,    afl,    ofc,    type,    tagid,    gwid)   VALUES (    ?,    ?,    ?,    ?,    ?,    ?,    ?)
+### Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01048800311' for key 'PRIMARY'
+(D)MashupFileReceiver] connected
+(D)MashupReceiver] connected
+(I)MonitoringReceiver] connected: 127.0.0.1
+(I)GWProcess] start communication
+(D)MashupReceiver] {"data":[{"gwid":"KW_GATEWAY_FOR_GJ","svid":"41","svnm":"HeaterControlService","svvs":"0.0.1","svif":"heater_on_off_turn_strong_weak","ctg":"control","rt":"2017-07-21 19:00:43.0"}],"to":"gateway","from":"mashup","id":"keti-mash-1","mt":0,"cmd":2,"ct":16,"ctt":2}
+(D)MashupManager] put: [Service [gwid=KW_GATEWAY_FOR_GJ, svid=41, svnm=HeaterControlService, svvs=0.0.1, svif=heater_on_off_turn_strong_weak, ctg=control, svtp=null, rt=2017-07-21 19:00:43.0]]
+(D)MonitoringReceiver] message: {"data":{"gwid":"KW_GATEWAY_FOR_GJ","svid":"41","svnm":"HeaterControlService","svvs":"0.0.1","svif":"heater_on_off_turn_strong_weak","ctg":"control","rt":"2017-07-21 19:00:43.0"},"from":"HOME_MONITORING","to":"HOME_GATEWAY","username":"user2","type":3,"cmd":1,"count":1,"content":1}
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(I)PhoneReceiver] connected: 192.168.0.16
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)PhoneReceiver] message: {"data":{"controlType":"IR","deviceType":"HEATER","manufacturer":"CHAOS","modelName":"MSH-2200S","power":"1800W","serialNumber":"4.0"},"to":"gateway","id":"keti-sp-1","from":"smartphone","ctt":1,"ct":14,"mt":0,"cmd":0}
+(I)ContextAwareness] success to set weka instance: arff/home/HeaterControlService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-hcs-10, svnm=HeaterControlService, svvs=0.0.1, svif=null, ctg=env, svtp=arff, rt=null]
+(D)MashupReceiver] {"data":[],"to":"gateway","from":"mashup","id":"keti-mash-1","mt":0,"cmd":2,"ct":16,"ctt":2}
+(D)MashupManager] put: []
+(D)PhoneReceiver] message: {"data":{"addr":"26, Yatap 3(sam)-dong, Seongnam-si, Gyeonggi-do, South Korea","sdst":"SILENT","mphnb":"01058829549","phnb":"01058829549","phst":"IDLE","lng":127.1610736,"lat":37.4041855},"to":"gateway","id":"keti-sp-1","from":"smartphone","ctt":1,"ct":4,"mt":2,"cmd":2}
+(D)DAOSmartphone] Smartphone [phnb=01058829549, mphnb=01058829549, lat=37.4041855, lng=127.1610736, addr=26, Yatap 3(sam)-dong, Seongnam-si, Gyeonggi-do, South Korea, phst=IDLE, sdst=SILENT, rt=null]
+(D)DataCollector] success to store a smartphone
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)PhoneReceiver] message: {"data":{"addr":"26, Yatap 3(sam)-dong, Seongnam-si, Gyeonggi-do, South Korea","sdst":"SILENT","mphnb":"01058829549","phnb":"01058829549","phst":"IDLE","lng":127.1610736,"lat":37.4041855},"to":"gateway","id":"keti-sp-1","from":"smartphone","ctt":1,"ct":4,"mt":2,"cmd":2}
+(D)DAOSmartphone] Smartphone [phnb=01058829549, mphnb=01058829549, lat=37.4041855, lng=127.1610736, addr=26, Yatap 3(sam)-dong, Seongnam-si, Gyeonggi-do, South Korea, phst=IDLE, sdst=SILENT, rt=null]
+(D)DataCollector] success to store a smartphone
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)PhoneReceiver] message: {"data":{"addr":"26, Yatap 3(sam)-dong, Seongnam-si, Gyeonggi-do, South Korea","sdst":"SILENT","mphnb":"01058829549","phnb":"01058829549","phst":"IDLE","lng":127.1610736,"lat":37.4041855},"to":"gateway","id":"keti-sp-1","from":"smartphone","ctt":1,"ct":4,"mt":2,"cmd":2}
+(D)DAOSmartphone] Smartphone [phnb=01058829549, mphnb=01058829549, lat=37.4041855, lng=127.1610736, addr=26, Yatap 3(sam)-dong, Seongnam-si, Gyeonggi-do, South Korea, phst=IDLE, sdst=SILENT, rt=null]
+(D)DataCollector] success to store a smartphone
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)PhoneReceiver] message: {"data":{"addr":"26, Yatap 3(sam)-dong, Seongnam-si, Gyeonggi-do, South Korea","sdst":"SILENT","mphnb":"01058829549","phnb":"01058829549","phst":"IDLE","lng":127.1610736,"lat":37.4041855},"to":"gateway","id":"keti-sp-1","from":"smartphone","ctt":1,"ct":4,"mt":2,"cmd":2}
+(D)DAOSmartphone] Smartphone [phnb=01058829549, mphnb=01058829549, lat=37.4041855, lng=127.1610736, addr=26, Yatap 3(sam)-dong, Seongnam-si, Gyeonggi-do, South Korea, phst=IDLE, sdst=SILENT, rt=null]
+(D)DataCollector] success to store a smartphone
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)PhoneReceiver] message: {"data":{"addr":"26, Yatap 3(sam)-dong, Seongnam-si, Gyeonggi-do, South Korea","sdst":"SILENT","mphnb":"01058829549","phnb":"01058829549","phst":"IDLE","lng":127.1610736,"lat":37.4041855},"to":"gateway","id":"keti-sp-1","from":"smartphone","ctt":1,"ct":4,"mt":2,"cmd":2}
+(D)DAOSmartphone] Smartphone [phnb=01058829549, mphnb=01058829549, lat=37.4041855, lng=127.1610736, addr=26, Yatap 3(sam)-dong, Seongnam-si, Gyeonggi-do, South Korea, phst=IDLE, sdst=SILENT, rt=null]
+(D)DataCollector] success to store a smartphone
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(I)MonitoringReceiver] disconnected: 127.0.0.1
+####################################################
+log history open time: 2017/08/10 19:55:41
+####################################################
+(I)Configure] *** gateway configuration
+(I)Configure] *** context-awareness configuration
+(I)Configure] *** sensor configuration
+(I)Configure] *** home appliance configuration
+(I)Configure] *** service configuration
+(D)DAOGateway] Gateway [gwid=KW_GATEWAY_FOR_GJ, bd=kw-building, flr=6, lct=home, rt=2017-08-09 15:25:28.0]
+(I)GWProcess] gateway info.: Gateway [gwid=KW_GATEWAY_FOR_GJ, bd=kw-building, flr=6, lct=home, rt=2017-08-09 15:25:28.0]
+(I)ContextAwareness] success to set weka instance: arff/home/AirConditionControlService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-accs-1, svnm=AirConditionControlService, svvs=0.0.1, svif=null, ctg=env, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/EnvironmentControlService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-ecs-2, svnm=EnvironmentControlService, svvs=0.0.1, svif=null, ctg=env, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/LeaveToWorkService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-ltws-4, svnm=LeaveToWorkService, svvs=0.0.1, svif=null, ctg=eng, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/MirrorTVService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-mtvs-6, svnm=MirrorTVService, svvs=0.0.1, svif=null, ctg=ct, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/SleepWakeupService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-sws-9, svnm=SleepWakeupService, svvs=0.0.1, svif=null, ctg=cnt, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/MusicPlayService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-mps-7, svnm=MusicPlayService, svvs=0.0.1, svif=null, ctg=enj, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/WatchTVService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-wtvs-10, svnm=WatchTVService, svvs=0.0.1, svif=null, ctg=env, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/LightService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-lsgs-5, svnm=LightSmartGridService, svvs=0.0.1, svif=null, ctg=eng, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/GoToWorkService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-gtws-3, svnm=GoToWorkService, svvs=0.0.1, svif=null, ctg=eng, svtp=arff, rt=null]
+(C)DAOUser] 
+### Error updating database.  Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01058829549' for key 'PRIMARY'
+### The error may involve KWGATEWAY.insert_user-Inline
+### The error occurred while setting parameters
+### SQL: INSERT INTO user (    mphnb,    name,    afl,    ofc,    type,    tagid,    gwid)   VALUES (    ?,    ?,    ?,    ?,    ?,    ?,    ?)
+### Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01058829549' for key 'PRIMARY'
+(C)DAOUser] 
+### Error updating database.  Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01038395471' for key 'PRIMARY'
+### The error may involve KWGATEWAY.insert_user-Inline
+### The error occurred while setting parameters
+### SQL: INSERT INTO user (    mphnb,    name,    afl,    ofc,    type,    tagid,    gwid)   VALUES (    ?,    ?,    ?,    ?,    ?,    ?,    ?)
+### Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01038395471' for key 'PRIMARY'
+(C)DAOUser] 
+### Error updating database.  Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01048800311' for key 'PRIMARY'
+### The error may involve KWGATEWAY.insert_user-Inline
+### The error occurred while setting parameters
+### SQL: INSERT INTO user (    mphnb,    name,    afl,    ofc,    type,    tagid,    gwid)   VALUES (    ?,    ?,    ?,    ?,    ?,    ?,    ?)
+### Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01048800311' for key 'PRIMARY'
+(D)MashupFileReceiver] connected
+(D)MashupReceiver] connected
+(D)MashupReceiver] {"data":[{"gwid":"KW_GATEWAY_FOR_GJ","svid":"41","svnm":"HeaterControlService","svvs":"0.0.1","svif":"heater_on_off_turn_strong_weak","ctg":"control","rt":"2017-07-21 19:00:43.0"}],"to":"gateway","from":"mashup","id":"keti-mash-1","mt":0,"cmd":2,"ct":16,"ctt":2}
+(D)MashupManager] put: [Service [gwid=KW_GATEWAY_FOR_GJ, svid=41, svnm=HeaterControlService, svvs=0.0.1, svif=heater_on_off_turn_strong_weak, ctg=control, svtp=null, rt=2017-07-21 19:00:43.0]]
+(I)MonitoringReceiver] connected: 127.0.0.1
+(I)GWProcess] start communication
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+####################################################
+log history open time: 2017/08/10 19:57:59
+####################################################
+(I)Configure] *** gateway configuration
+(I)Configure] *** context-awareness configuration
+(I)Configure] *** sensor configuration
+(I)Configure] *** home appliance configuration
+(I)Configure] *** service configuration
+(D)DAOGateway] Gateway [gwid=KW_GATEWAY_FOR_GJ, bd=kw-building, flr=6, lct=home, rt=2017-08-09 15:25:28.0]
+(I)GWProcess] gateway info.: Gateway [gwid=KW_GATEWAY_FOR_GJ, bd=kw-building, flr=6, lct=home, rt=2017-08-09 15:25:28.0]
+(I)ContextAwareness] success to set weka instance: arff/home/AirConditionControlService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-accs-1, svnm=AirConditionControlService, svvs=0.0.1, svif=null, ctg=env, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/EnvironmentControlService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-ecs-2, svnm=EnvironmentControlService, svvs=0.0.1, svif=null, ctg=env, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/LeaveToWorkService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-ltws-4, svnm=LeaveToWorkService, svvs=0.0.1, svif=null, ctg=eng, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/MirrorTVService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-mtvs-6, svnm=MirrorTVService, svvs=0.0.1, svif=null, ctg=ct, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/SleepWakeupService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-sws-9, svnm=SleepWakeupService, svvs=0.0.1, svif=null, ctg=cnt, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/MusicPlayService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-mps-7, svnm=MusicPlayService, svvs=0.0.1, svif=null, ctg=enj, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/WatchTVService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-wtvs-10, svnm=WatchTVService, svvs=0.0.1, svif=null, ctg=env, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/LightService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-lsgs-5, svnm=LightSmartGridService, svvs=0.0.1, svif=null, ctg=eng, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/GoToWorkService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-gtws-3, svnm=GoToWorkService, svvs=0.0.1, svif=null, ctg=eng, svtp=arff, rt=null]
+(C)DAOUser] 
+### Error updating database.  Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01058829549' for key 'PRIMARY'
+### The error may involve KWGATEWAY.insert_user-Inline
+### The error occurred while setting parameters
+### SQL: INSERT INTO user (    mphnb,    name,    afl,    ofc,    type,    tagid,    gwid)   VALUES (    ?,    ?,    ?,    ?,    ?,    ?,    ?)
+### Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01058829549' for key 'PRIMARY'
+(C)DAOUser] 
+### Error updating database.  Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01038395471' for key 'PRIMARY'
+### The error may involve KWGATEWAY.insert_user-Inline
+### The error occurred while setting parameters
+### SQL: INSERT INTO user (    mphnb,    name,    afl,    ofc,    type,    tagid,    gwid)   VALUES (    ?,    ?,    ?,    ?,    ?,    ?,    ?)
+### Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01038395471' for key 'PRIMARY'
+(C)DAOUser] 
+### Error updating database.  Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01048800311' for key 'PRIMARY'
+### The error may involve KWGATEWAY.insert_user-Inline
+### The error occurred while setting parameters
+### SQL: INSERT INTO user (    mphnb,    name,    afl,    ofc,    type,    tagid,    gwid)   VALUES (    ?,    ?,    ?,    ?,    ?,    ?,    ?)
+### Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01048800311' for key 'PRIMARY'
+(D)MashupFileReceiver] connected
+(D)MashupReceiver] connected
+(D)MashupReceiver] {"data":[{"gwid":"KW_GATEWAY_FOR_GJ","svid":"41","svnm":"HeaterControlService","svvs":"0.0.1","svif":"heater_on_off_turn_strong_weak","ctg":"control","rt":"2017-07-21 19:00:43.0"}],"to":"gateway","from":"mashup","id":"keti-mash-1","mt":0,"cmd":2,"ct":16,"ctt":2}
+(D)MashupManager] put: [Service [gwid=KW_GATEWAY_FOR_GJ, svid=41, svnm=HeaterControlService, svvs=0.0.1, svif=heater_on_off_turn_strong_weak, ctg=control, svtp=null, rt=2017-07-21 19:00:43.0]]
+(I)MonitoringReceiver] connected: 127.0.0.1
+(I)GWProcess] start communication
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(I)MonitoringReceiver] disconnected: 127.0.0.1
+####################################################
+log history open time: 2017/08/10 20:00:27
+####################################################
+(I)Configure] *** gateway configuration
+(I)Configure] *** context-awareness configuration
+(I)Configure] *** sensor configuration
+(I)Configure] *** home appliance configuration
+(I)Configure] *** service configuration
+(D)DAOGateway] Gateway [gwid=KW_GATEWAY_FOR_GJ, bd=kw-building, flr=6, lct=home, rt=2017-08-09 15:25:28.0]
+(I)GWProcess] gateway info.: Gateway [gwid=KW_GATEWAY_FOR_GJ, bd=kw-building, flr=6, lct=home, rt=2017-08-09 15:25:28.0]
+(I)ContextAwareness] success to set weka instance: arff/home/AirConditionControlService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-accs-1, svnm=AirConditionControlService, svvs=0.0.1, svif=null, ctg=env, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/EnvironmentControlService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-ecs-2, svnm=EnvironmentControlService, svvs=0.0.1, svif=null, ctg=env, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/LeaveToWorkService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-ltws-4, svnm=LeaveToWorkService, svvs=0.0.1, svif=null, ctg=eng, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/MirrorTVService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-mtvs-6, svnm=MirrorTVService, svvs=0.0.1, svif=null, ctg=ct, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/SleepWakeupService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-sws-9, svnm=SleepWakeupService, svvs=0.0.1, svif=null, ctg=cnt, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/MusicPlayService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-mps-7, svnm=MusicPlayService, svvs=0.0.1, svif=null, ctg=enj, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/WatchTVService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-wtvs-10, svnm=WatchTVService, svvs=0.0.1, svif=null, ctg=env, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/LightService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-lsgs-5, svnm=LightSmartGridService, svvs=0.0.1, svif=null, ctg=eng, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/GoToWorkService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-gtws-3, svnm=GoToWorkService, svvs=0.0.1, svif=null, ctg=eng, svtp=arff, rt=null]
+(C)DAOUser] 
+### Error updating database.  Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01058829549' for key 'PRIMARY'
+### The error may involve KWGATEWAY.insert_user-Inline
+### The error occurred while setting parameters
+### SQL: INSERT INTO user (    mphnb,    name,    afl,    ofc,    type,    tagid,    gwid)   VALUES (    ?,    ?,    ?,    ?,    ?,    ?,    ?)
+### Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01058829549' for key 'PRIMARY'
+(C)DAOUser] 
+### Error updating database.  Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01038395471' for key 'PRIMARY'
+### The error may involve KWGATEWAY.insert_user-Inline
+### The error occurred while setting parameters
+### SQL: INSERT INTO user (    mphnb,    name,    afl,    ofc,    type,    tagid,    gwid)   VALUES (    ?,    ?,    ?,    ?,    ?,    ?,    ?)
+### Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01038395471' for key 'PRIMARY'
+(C)DAOUser] 
+### Error updating database.  Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01048800311' for key 'PRIMARY'
+### The error may involve KWGATEWAY.insert_user-Inline
+### The error occurred while setting parameters
+### SQL: INSERT INTO user (    mphnb,    name,    afl,    ofc,    type,    tagid,    gwid)   VALUES (    ?,    ?,    ?,    ?,    ?,    ?,    ?)
+### Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01048800311' for key 'PRIMARY'
+(D)MashupReceiver] connected
+(D)MashupFileReceiver] connected
+(D)MashupReceiver] {"data":[{"gwid":"KW_GATEWAY_FOR_GJ","svid":"41","svnm":"HeaterControlService","svvs":"0.0.1","svif":"heater_on_off_turn_strong_weak","ctg":"control","rt":"2017-07-21 19:00:43.0"}],"to":"gateway","from":"mashup","id":"keti-mash-1","mt":0,"cmd":2,"ct":16,"ctt":2}
+(D)MashupManager] put: [Service [gwid=KW_GATEWAY_FOR_GJ, svid=41, svnm=HeaterControlService, svvs=0.0.1, svif=heater_on_off_turn_strong_weak, ctg=control, svtp=null, rt=2017-07-21 19:00:43.0]]
+(I)MonitoringReceiver] connected: 127.0.0.1
+(I)GWProcess] start communication
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(I)MonitoringReceiver] disconnected: 127.0.0.1
+####################################################
+log history open time: 2017/08/10 20:01:57
+####################################################
+(I)Configure] *** gateway configuration
+(I)Configure] *** context-awareness configuration
+(I)Configure] *** sensor configuration
+(I)Configure] *** home appliance configuration
+(I)Configure] *** service configuration
+(D)DAOGateway] Gateway [gwid=KW_GATEWAY_FOR_GJ, bd=kw-building, flr=6, lct=home, rt=2017-08-09 15:25:28.0]
+(I)GWProcess] gateway info.: Gateway [gwid=KW_GATEWAY_FOR_GJ, bd=kw-building, flr=6, lct=home, rt=2017-08-09 15:25:28.0]
+(I)ContextAwareness] success to set weka instance: arff/home/AirConditionControlService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-accs-1, svnm=AirConditionControlService, svvs=0.0.1, svif=null, ctg=env, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/EnvironmentControlService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-ecs-2, svnm=EnvironmentControlService, svvs=0.0.1, svif=null, ctg=env, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/LeaveToWorkService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-ltws-4, svnm=LeaveToWorkService, svvs=0.0.1, svif=null, ctg=eng, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/MirrorTVService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-mtvs-6, svnm=MirrorTVService, svvs=0.0.1, svif=null, ctg=ct, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/SleepWakeupService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-sws-9, svnm=SleepWakeupService, svvs=0.0.1, svif=null, ctg=cnt, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/MusicPlayService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-mps-7, svnm=MusicPlayService, svvs=0.0.1, svif=null, ctg=enj, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/WatchTVService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-wtvs-10, svnm=WatchTVService, svvs=0.0.1, svif=null, ctg=env, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/LightService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-lsgs-5, svnm=LightSmartGridService, svvs=0.0.1, svif=null, ctg=eng, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/GoToWorkService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-gtws-3, svnm=GoToWorkService, svvs=0.0.1, svif=null, ctg=eng, svtp=arff, rt=null]
+(C)DAOUser] 
+### Error updating database.  Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01058829549' for key 'PRIMARY'
+### The error may involve KWGATEWAY.insert_user-Inline
+### The error occurred while setting parameters
+### SQL: INSERT INTO user (    mphnb,    name,    afl,    ofc,    type,    tagid,    gwid)   VALUES (    ?,    ?,    ?,    ?,    ?,    ?,    ?)
+### Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01058829549' for key 'PRIMARY'
+(C)DAOUser] 
+### Error updating database.  Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01038395471' for key 'PRIMARY'
+### The error may involve KWGATEWAY.insert_user-Inline
+### The error occurred while setting parameters
+### SQL: INSERT INTO user (    mphnb,    name,    afl,    ofc,    type,    tagid,    gwid)   VALUES (    ?,    ?,    ?,    ?,    ?,    ?,    ?)
+### Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01038395471' for key 'PRIMARY'
+(C)DAOUser] 
+### Error updating database.  Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01048800311' for key 'PRIMARY'
+### The error may involve KWGATEWAY.insert_user-Inline
+### The error occurred while setting parameters
+### SQL: INSERT INTO user (    mphnb,    name,    afl,    ofc,    type,    tagid,    gwid)   VALUES (    ?,    ?,    ?,    ?,    ?,    ?,    ?)
+### Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01048800311' for key 'PRIMARY'
+(D)MashupFileReceiver] connected
+(D)MashupReceiver] connected
+(D)MashupReceiver] {"data":[{"gwid":"KW_GATEWAY_FOR_GJ","svid":"41","svnm":"HeaterControlService","svvs":"0.0.1","svif":"heater_on_off_turn_strong_weak","ctg":"control","rt":"2017-07-21 19:00:43.0"}],"to":"gateway","from":"mashup","id":"keti-mash-1","mt":0,"cmd":2,"ct":16,"ctt":2}
+(D)MashupManager] put: [Service [gwid=KW_GATEWAY_FOR_GJ, svid=41, svnm=HeaterControlService, svvs=0.0.1, svif=heater_on_off_turn_strong_weak, ctg=control, svtp=null, rt=2017-07-21 19:00:43.0]]
+(I)GWProcess] start communication
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(I)MonitoringReceiver] connected: 127.0.0.1
+(I)PhoneReceiver] connected: 192.168.0.16
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)PhoneReceiver] message: {"data":{"controlType":"IR","deviceType":"HEATER","manufacturer":"CHAOS","modelName":"MSH-2200S","power":"1800W","serialNumber":"4.0"},"to":"gateway","id":"keti-sp-1","from":"smartphone","ctt":1,"ct":14,"mt":0,"cmd":0}
+(I)ContextAwareness] success to set weka instance: arff/home/HeaterControlService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-hcs-10, svnm=HeaterControlService, svvs=0.0.1, svif=null, ctg=env, svtp=arff, rt=null]
+(D)MashupReceiver] {"data":[],"to":"gateway","from":"mashup","id":"keti-mash-1","mt":0,"cmd":2,"ct":16,"ctt":2}
+(D)MashupManager] put: []
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(I)MonitoringReceiver] disconnected: 127.0.0.1
+####################################################
+log history open time: 2017/08/10 20:04:56
+####################################################
+(I)Configure] *** gateway configuration
+(I)Configure] *** context-awareness configuration
+(I)Configure] *** sensor configuration
+(I)Configure] *** home appliance configuration
+(I)Configure] *** service configuration
+(D)DAOGateway] Gateway [gwid=KW_GATEWAY_FOR_GJ, bd=kw-building, flr=6, lct=home, rt=2017-08-09 15:25:28.0]
+(I)GWProcess] gateway info.: Gateway [gwid=KW_GATEWAY_FOR_GJ, bd=kw-building, flr=6, lct=home, rt=2017-08-09 15:25:28.0]
+(I)ContextAwareness] success to set weka instance: arff/home/AirConditionControlService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-accs-1, svnm=AirConditionControlService, svvs=0.0.1, svif=null, ctg=env, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/EnvironmentControlService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-ecs-2, svnm=EnvironmentControlService, svvs=0.0.1, svif=null, ctg=env, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/LeaveToWorkService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-ltws-4, svnm=LeaveToWorkService, svvs=0.0.1, svif=null, ctg=eng, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/MirrorTVService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-mtvs-6, svnm=MirrorTVService, svvs=0.0.1, svif=null, ctg=ct, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/SleepWakeupService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-sws-9, svnm=SleepWakeupService, svvs=0.0.1, svif=null, ctg=cnt, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/MusicPlayService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-mps-7, svnm=MusicPlayService, svvs=0.0.1, svif=null, ctg=enj, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/WatchTVService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-wtvs-10, svnm=WatchTVService, svvs=0.0.1, svif=null, ctg=env, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/LightService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-lsgs-5, svnm=LightSmartGridService, svvs=0.0.1, svif=null, ctg=eng, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/GoToWorkService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-gtws-3, svnm=GoToWorkService, svvs=0.0.1, svif=null, ctg=eng, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/HeaterControlService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-hcs-10, svnm=HeaterControlService, svvs=0.0.1, svif=null, ctg=env, svtp=arff, rt=null]
+(C)DAOUser] 
+### Error updating database.  Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01058829549' for key 'PRIMARY'
+### The error may involve KWGATEWAY.insert_user-Inline
+### The error occurred while setting parameters
+### SQL: INSERT INTO user (    mphnb,    name,    afl,    ofc,    type,    tagid,    gwid)   VALUES (    ?,    ?,    ?,    ?,    ?,    ?,    ?)
+### Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01058829549' for key 'PRIMARY'
+(C)DAOUser] 
+### Error updating database.  Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01038395471' for key 'PRIMARY'
+### The error may involve KWGATEWAY.insert_user-Inline
+### The error occurred while setting parameters
+### SQL: INSERT INTO user (    mphnb,    name,    afl,    ofc,    type,    tagid,    gwid)   VALUES (    ?,    ?,    ?,    ?,    ?,    ?,    ?)
+### Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01038395471' for key 'PRIMARY'
+(C)DAOUser] 
+### Error updating database.  Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01048800311' for key 'PRIMARY'
+### The error may involve KWGATEWAY.insert_user-Inline
+### The error occurred while setting parameters
+### SQL: INSERT INTO user (    mphnb,    name,    afl,    ofc,    type,    tagid,    gwid)   VALUES (    ?,    ?,    ?,    ?,    ?,    ?,    ?)
+### Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01048800311' for key 'PRIMARY'
+(D)MashupReceiver] connected
+(D)MashupFileReceiver] connected
+(D)MashupReceiver] {"data":[],"to":"gateway","from":"mashup","id":"keti-mash-1","mt":0,"cmd":2,"ct":16,"ctt":2}
+(D)MashupManager] put: []
+(I)GWProcess] start communication
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(I)MonitoringReceiver] connected: 127.0.0.1
+(I)MonitoringReceiver] disconnected: 127.0.0.1
+####################################################
+log history open time: 2017/08/10 20:05:18
+####################################################
+(I)Configure] *** gateway configuration
+(I)Configure] *** context-awareness configuration
+(I)Configure] *** sensor configuration
+(I)Configure] *** home appliance configuration
+(I)Configure] *** service configuration
+(D)DAOGateway] Gateway [gwid=KW_GATEWAY_FOR_GJ, bd=kw-building, flr=6, lct=home, rt=2017-08-09 15:25:28.0]
+(I)GWProcess] gateway info.: Gateway [gwid=KW_GATEWAY_FOR_GJ, bd=kw-building, flr=6, lct=home, rt=2017-08-09 15:25:28.0]
+(I)ContextAwareness] success to set weka instance: arff/home/AirConditionControlService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-accs-1, svnm=AirConditionControlService, svvs=0.0.1, svif=null, ctg=env, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/EnvironmentControlService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-ecs-2, svnm=EnvironmentControlService, svvs=0.0.1, svif=null, ctg=env, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/LeaveToWorkService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-ltws-4, svnm=LeaveToWorkService, svvs=0.0.1, svif=null, ctg=eng, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/MirrorTVService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-mtvs-6, svnm=MirrorTVService, svvs=0.0.1, svif=null, ctg=ct, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/SleepWakeupService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-sws-9, svnm=SleepWakeupService, svvs=0.0.1, svif=null, ctg=cnt, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/MusicPlayService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-mps-7, svnm=MusicPlayService, svvs=0.0.1, svif=null, ctg=enj, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/WatchTVService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-wtvs-10, svnm=WatchTVService, svvs=0.0.1, svif=null, ctg=env, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/LightService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-lsgs-5, svnm=LightSmartGridService, svvs=0.0.1, svif=null, ctg=eng, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/GoToWorkService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-gtws-3, svnm=GoToWorkService, svvs=0.0.1, svif=null, ctg=eng, svtp=arff, rt=null]
+(C)DAOUser] 
+### Error updating database.  Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01058829549' for key 'PRIMARY'
+### The error may involve KWGATEWAY.insert_user-Inline
+### The error occurred while setting parameters
+### SQL: INSERT INTO user (    mphnb,    name,    afl,    ofc,    type,    tagid,    gwid)   VALUES (    ?,    ?,    ?,    ?,    ?,    ?,    ?)
+### Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01058829549' for key 'PRIMARY'
+(C)DAOUser] 
+### Error updating database.  Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01038395471' for key 'PRIMARY'
+### The error may involve KWGATEWAY.insert_user-Inline
+### The error occurred while setting parameters
+### SQL: INSERT INTO user (    mphnb,    name,    afl,    ofc,    type,    tagid,    gwid)   VALUES (    ?,    ?,    ?,    ?,    ?,    ?,    ?)
+### Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01038395471' for key 'PRIMARY'
+(C)DAOUser] 
+### Error updating database.  Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01048800311' for key 'PRIMARY'
+### The error may involve KWGATEWAY.insert_user-Inline
+### The error occurred while setting parameters
+### SQL: INSERT INTO user (    mphnb,    name,    afl,    ofc,    type,    tagid,    gwid)   VALUES (    ?,    ?,    ?,    ?,    ?,    ?,    ?)
+### Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01048800311' for key 'PRIMARY'
+(D)MashupFileReceiver] connected
+(D)MashupReceiver] connected
+(D)MashupReceiver] {"data":[{"gwid":"KW_GATEWAY_FOR_GJ","svid":"41","svnm":"HeaterControlService","svvs":"0.0.1","svif":"heater_on_off_turn_strong_weak","ctg":"control","rt":"2017-07-21 19:00:43.0"}],"to":"gateway","from":"mashup","id":"keti-mash-1","mt":0,"cmd":2,"ct":16,"ctt":2}
+(D)MashupManager] put: [Service [gwid=KW_GATEWAY_FOR_GJ, svid=41, svnm=HeaterControlService, svvs=0.0.1, svif=heater_on_off_turn_strong_weak, ctg=control, svtp=null, rt=2017-07-21 19:00:43.0]]
+(I)MonitoringReceiver] connected: 127.0.0.1
+(I)GWProcess] start communication
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(I)PhoneReceiver] connected: 192.168.0.16
+(D)PhoneReceiver] message: {"data":{"controlType":"IR","deviceType":"HEATER","manufacturer":"CHAOS","modelName":"MSH-2200S","power":"1800W","serialNumber":"4.0"},"to":"gateway","id":"keti-sp-1","from":"smartphone","ctt":1,"ct":14,"mt":0,"cmd":0}
+(I)ContextAwareness] success to set weka instance: arff/home/HeaterControlService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-hcs-10, svnm=HeaterControlService, svvs=0.0.1, svif=null, ctg=env, svtp=arff, rt=null]
+(D)MashupReceiver] {"data":[],"to":"gateway","from":"mashup","id":"keti-mash-1","mt":0,"cmd":2,"ct":16,"ctt":2}
+(D)MashupManager] put: []
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(I)MonitoringReceiver] disconnected: 127.0.0.1
+####################################################
+log history open time: 2017/08/10 20:06:02
+####################################################
+(I)Configure] *** gateway configuration
+(I)Configure] *** context-awareness configuration
+(I)Configure] *** sensor configuration
+(I)Configure] *** home appliance configuration
+(I)Configure] *** service configuration
+(D)DAOGateway] Gateway [gwid=KW_GATEWAY_FOR_GJ, bd=kw-building, flr=6, lct=home, rt=2017-08-09 15:25:28.0]
+(I)GWProcess] gateway info.: Gateway [gwid=KW_GATEWAY_FOR_GJ, bd=kw-building, flr=6, lct=home, rt=2017-08-09 15:25:28.0]
+(I)ContextAwareness] success to set weka instance: arff/home/AirConditionControlService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-accs-1, svnm=AirConditionControlService, svvs=0.0.1, svif=null, ctg=env, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/EnvironmentControlService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-ecs-2, svnm=EnvironmentControlService, svvs=0.0.1, svif=null, ctg=env, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/LeaveToWorkService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-ltws-4, svnm=LeaveToWorkService, svvs=0.0.1, svif=null, ctg=eng, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/MirrorTVService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-mtvs-6, svnm=MirrorTVService, svvs=0.0.1, svif=null, ctg=ct, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/SleepWakeupService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-sws-9, svnm=SleepWakeupService, svvs=0.0.1, svif=null, ctg=cnt, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/MusicPlayService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-mps-7, svnm=MusicPlayService, svvs=0.0.1, svif=null, ctg=enj, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/WatchTVService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-wtvs-10, svnm=WatchTVService, svvs=0.0.1, svif=null, ctg=env, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/LightService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-lsgs-5, svnm=LightSmartGridService, svvs=0.0.1, svif=null, ctg=eng, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/GoToWorkService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-gtws-3, svnm=GoToWorkService, svvs=0.0.1, svif=null, ctg=eng, svtp=arff, rt=null]
+(C)DAOUser] 
+### Error updating database.  Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01058829549' for key 'PRIMARY'
+### The error may involve KWGATEWAY.insert_user-Inline
+### The error occurred while setting parameters
+### SQL: INSERT INTO user (    mphnb,    name,    afl,    ofc,    type,    tagid,    gwid)   VALUES (    ?,    ?,    ?,    ?,    ?,    ?,    ?)
+### Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01058829549' for key 'PRIMARY'
+(C)DAOUser] 
+### Error updating database.  Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01038395471' for key 'PRIMARY'
+### The error may involve KWGATEWAY.insert_user-Inline
+### The error occurred while setting parameters
+### SQL: INSERT INTO user (    mphnb,    name,    afl,    ofc,    type,    tagid,    gwid)   VALUES (    ?,    ?,    ?,    ?,    ?,    ?,    ?)
+### Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01038395471' for key 'PRIMARY'
+(C)DAOUser] 
+### Error updating database.  Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01048800311' for key 'PRIMARY'
+### The error may involve KWGATEWAY.insert_user-Inline
+### The error occurred while setting parameters
+### SQL: INSERT INTO user (    mphnb,    name,    afl,    ofc,    type,    tagid,    gwid)   VALUES (    ?,    ?,    ?,    ?,    ?,    ?,    ?)
+### Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01048800311' for key 'PRIMARY'
+(D)MashupReceiver] connected
+(D)MashupFileReceiver] connected
+(D)MashupReceiver] {"data":[{"gwid":"KW_GATEWAY_FOR_GJ","svid":"41","svnm":"HeaterControlService","svvs":"0.0.1","svif":"heater_on_off_turn_strong_weak","ctg":"control","rt":"2017-07-21 19:00:43.0"}],"to":"gateway","from":"mashup","id":"keti-mash-1","mt":0,"cmd":2,"ct":16,"ctt":2}
+(D)MashupManager] put: [Service [gwid=KW_GATEWAY_FOR_GJ, svid=41, svnm=HeaterControlService, svvs=0.0.1, svif=heater_on_off_turn_strong_weak, ctg=control, svtp=null, rt=2017-07-21 19:00:43.0]]
+(I)GWProcess] start communication
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(I)MonitoringReceiver] connected: 127.0.0.1
+(I)PhoneReceiver] connected: 192.168.0.16
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)PhoneReceiver] message: {"data":{"controlType":"IR","deviceType":"HEATER","manufacturer":"CHAOS","modelName":"MSH-2200S","power":"1800W","serialNumber":"4.0"},"to":"gateway","id":"keti-sp-1","from":"smartphone","ctt":1,"ct":14,"mt":0,"cmd":0}
+(I)ContextAwareness] success to set weka instance: arff/home/HeaterControlService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-hcs-10, svnm=HeaterControlService, svvs=0.0.1, svif=null, ctg=env, svtp=arff, rt=null]
+(D)MashupReceiver] {"data":[],"to":"gateway","from":"mashup","id":"keti-mash-1","mt":0,"cmd":2,"ct":16,"ctt":2}
+(D)MashupManager] put: []
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(I)MonitoringReceiver] disconnected: 127.0.0.1
+####################################################
+log history open time: 2017/08/10 20:06:38
+####################################################
+(I)Configure] *** gateway configuration
+(I)Configure] *** context-awareness configuration
+(I)Configure] *** sensor configuration
+(I)Configure] *** home appliance configuration
+(I)Configure] *** service configuration
+(D)DAOGateway] Gateway [gwid=KW_GATEWAY_FOR_GJ, bd=kw-building, flr=6, lct=home, rt=2017-08-09 15:25:28.0]
+(I)GWProcess] gateway info.: Gateway [gwid=KW_GATEWAY_FOR_GJ, bd=kw-building, flr=6, lct=home, rt=2017-08-09 15:25:28.0]
+(I)ContextAwareness] success to set weka instance: arff/home/AirConditionControlService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-accs-1, svnm=AirConditionControlService, svvs=0.0.1, svif=null, ctg=env, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/EnvironmentControlService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-ecs-2, svnm=EnvironmentControlService, svvs=0.0.1, svif=null, ctg=env, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/LeaveToWorkService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-ltws-4, svnm=LeaveToWorkService, svvs=0.0.1, svif=null, ctg=eng, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/MirrorTVService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-mtvs-6, svnm=MirrorTVService, svvs=0.0.1, svif=null, ctg=ct, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/SleepWakeupService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-sws-9, svnm=SleepWakeupService, svvs=0.0.1, svif=null, ctg=cnt, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/MusicPlayService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-mps-7, svnm=MusicPlayService, svvs=0.0.1, svif=null, ctg=enj, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/WatchTVService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-wtvs-10, svnm=WatchTVService, svvs=0.0.1, svif=null, ctg=env, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/LightService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-lsgs-5, svnm=LightSmartGridService, svvs=0.0.1, svif=null, ctg=eng, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/GoToWorkService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-gtws-3, svnm=GoToWorkService, svvs=0.0.1, svif=null, ctg=eng, svtp=arff, rt=null]
+(C)DAOUser] 
+### Error updating database.  Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01058829549' for key 'PRIMARY'
+### The error may involve KWGATEWAY.insert_user-Inline
+### The error occurred while setting parameters
+### SQL: INSERT INTO user (    mphnb,    name,    afl,    ofc,    type,    tagid,    gwid)   VALUES (    ?,    ?,    ?,    ?,    ?,    ?,    ?)
+### Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01058829549' for key 'PRIMARY'
+(C)DAOUser] 
+### Error updating database.  Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01038395471' for key 'PRIMARY'
+### The error may involve KWGATEWAY.insert_user-Inline
+### The error occurred while setting parameters
+### SQL: INSERT INTO user (    mphnb,    name,    afl,    ofc,    type,    tagid,    gwid)   VALUES (    ?,    ?,    ?,    ?,    ?,    ?,    ?)
+### Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01038395471' for key 'PRIMARY'
+(C)DAOUser] 
+### Error updating database.  Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01048800311' for key 'PRIMARY'
+### The error may involve KWGATEWAY.insert_user-Inline
+### The error occurred while setting parameters
+### SQL: INSERT INTO user (    mphnb,    name,    afl,    ofc,    type,    tagid,    gwid)   VALUES (    ?,    ?,    ?,    ?,    ?,    ?,    ?)
+### Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01048800311' for key 'PRIMARY'
+(D)MashupFileReceiver] connected
+(D)MashupReceiver] connected
+(D)MashupReceiver] {"data":[{"gwid":"KW_GATEWAY_FOR_GJ","svid":"41","svnm":"HeaterControlService","svvs":"0.0.1","svif":"heater_on_off_turn_strong_weak","ctg":"control","rt":"2017-07-21 19:00:43.0"}],"to":"gateway","from":"mashup","id":"keti-mash-1","mt":0,"cmd":2,"ct":16,"ctt":2}
+(D)MashupManager] put: [Service [gwid=KW_GATEWAY_FOR_GJ, svid=41, svnm=HeaterControlService, svvs=0.0.1, svif=heater_on_off_turn_strong_weak, ctg=control, svtp=null, rt=2017-07-21 19:00:43.0]]
+(I)MonitoringReceiver] connected: 127.0.0.1
+(I)GWProcess] start communication
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(I)PhoneReceiver] connected: 192.168.0.16
+(D)PhoneReceiver] message: {"data":{"controlType":"IR","deviceType":"HEATER","manufacturer":"CHAOS","modelName":"MSH-2200S","power":"1800W","serialNumber":"4.0"},"to":"gateway","id":"keti-sp-1","from":"smartphone","ctt":1,"ct":14,"mt":0,"cmd":0}
+(I)ContextAwareness] success to set weka instance: arff/home/HeaterControlService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-hcs-10, svnm=HeaterControlService, svvs=0.0.1, svif=null, ctg=env, svtp=arff, rt=null]
+(D)MashupReceiver] {"data":[],"to":"gateway","from":"mashup","id":"keti-mash-1","mt":0,"cmd":2,"ct":16,"ctt":2}
+(D)MashupManager] put: []
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(I)MonitoringReceiver] disconnected: 127.0.0.1
+####################################################
+log history open time: 2017/08/10 20:10:24
+####################################################
+(I)Configure] *** gateway configuration
+(I)Configure] *** context-awareness configuration
+(I)Configure] *** sensor configuration
+(I)Configure] *** home appliance configuration
+(I)Configure] *** service configuration
+(D)DAOGateway] Gateway [gwid=KW_GATEWAY_FOR_GJ, bd=kw-building, flr=6, lct=home, rt=2017-08-09 15:25:28.0]
+(I)GWProcess] gateway info.: Gateway [gwid=KW_GATEWAY_FOR_GJ, bd=kw-building, flr=6, lct=home, rt=2017-08-09 15:25:28.0]
+(I)ContextAwareness] success to set weka instance: arff/home/AirConditionControlService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-accs-1, svnm=AirConditionControlService, svvs=0.0.1, svif=null, ctg=env, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/EnvironmentControlService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-ecs-2, svnm=EnvironmentControlService, svvs=0.0.1, svif=null, ctg=env, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/LeaveToWorkService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-ltws-4, svnm=LeaveToWorkService, svvs=0.0.1, svif=null, ctg=eng, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/MirrorTVService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-mtvs-6, svnm=MirrorTVService, svvs=0.0.1, svif=null, ctg=ct, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/SleepWakeupService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-sws-9, svnm=SleepWakeupService, svvs=0.0.1, svif=null, ctg=cnt, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/MusicPlayService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-mps-7, svnm=MusicPlayService, svvs=0.0.1, svif=null, ctg=enj, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/WatchTVService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-wtvs-10, svnm=WatchTVService, svvs=0.0.1, svif=null, ctg=env, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/LightService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-lsgs-5, svnm=LightSmartGridService, svvs=0.0.1, svif=null, ctg=eng, svtp=arff, rt=null]
+(I)ContextAwareness] success to set weka instance: arff/home/GoToWorkService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-gtws-3, svnm=GoToWorkService, svvs=0.0.1, svif=null, ctg=eng, svtp=arff, rt=null]
+(C)DAOUser] 
+### Error updating database.  Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01058829549' for key 'PRIMARY'
+### The error may involve KWGATEWAY.insert_user-Inline
+### The error occurred while setting parameters
+### SQL: INSERT INTO user (    mphnb,    name,    afl,    ofc,    type,    tagid,    gwid)   VALUES (    ?,    ?,    ?,    ?,    ?,    ?,    ?)
+### Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01058829549' for key 'PRIMARY'
+(C)DAOUser] 
+### Error updating database.  Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01038395471' for key 'PRIMARY'
+### The error may involve KWGATEWAY.insert_user-Inline
+### The error occurred while setting parameters
+### SQL: INSERT INTO user (    mphnb,    name,    afl,    ofc,    type,    tagid,    gwid)   VALUES (    ?,    ?,    ?,    ?,    ?,    ?,    ?)
+### Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01038395471' for key 'PRIMARY'
+(C)DAOUser] 
+### Error updating database.  Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01048800311' for key 'PRIMARY'
+### The error may involve KWGATEWAY.insert_user-Inline
+### The error occurred while setting parameters
+### SQL: INSERT INTO user (    mphnb,    name,    afl,    ofc,    type,    tagid,    gwid)   VALUES (    ?,    ?,    ?,    ?,    ?,    ?,    ?)
+### Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '01048800311' for key 'PRIMARY'
+(D)MashupFileReceiver] connected
+(D)MashupReceiver] connected
+(D)MashupReceiver] {"data":[{"gwid":"KW_GATEWAY_FOR_GJ","svid":"41","svnm":"HeaterControlService","svvs":"0.0.1","svif":"heater_on_off_turn_strong_weak","ctg":"control","rt":"2017-07-21 19:00:43.0"}],"to":"gateway","from":"mashup","id":"keti-mash-1","mt":0,"cmd":2,"ct":16,"ctt":2}
+(D)MashupManager] put: [Service [gwid=KW_GATEWAY_FOR_GJ, svid=41, svnm=HeaterControlService, svvs=0.0.1, svif=heater_on_off_turn_strong_weak, ctg=control, svtp=null, rt=2017-07-21 19:00:43.0]]
+(I)MonitoringReceiver] connected: 127.0.0.1
+(I)GWProcess] start communication
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(I)PhoneReceiver] connected: 192.168.0.16
+(D)BMSReceiver] err: Connection refused: connect
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)PhoneReceiver] message: {"data":{"controlType":"IR","deviceType":"HEATER","manufacturer":"CHAOS","modelName":"MSH-2200S","power":"1800W","serialNumber":"4.0"},"to":"gateway","id":"keti-sp-1","from":"smartphone","ctt":1,"ct":14,"mt":0,"cmd":0}
+(I)ContextAwareness] success to set weka instance: arff/home/HeaterControlService.arff
+(D)ServiceManager] add: Service [gwid=KW_GATEWAY_FOR_GJ, svid=kw-hm-hcs-10, svnm=HeaterControlService, svvs=0.0.1, svif=null, ctg=env, svtp=arff, rt=null]
+(D)MashupReceiver] {"data":[],"to":"gateway","from":"mashup","id":"keti-mash-1","mt":0,"cmd":2,"ct":16,"ctt":2}
+(D)MashupManager] put: []
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect
+(I)MonitoringReceiver] disconnected: 127.0.0.1
+(D)HomeApplianceReceiver] err: Connection refused: connect
+(D)BMSReceiver] err: Connection refused: connect

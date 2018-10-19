@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+  PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+    "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="KWGATEWAY">
+
+    <!-- data form -->
+    <resultMap id="gw_result" type="gw">
+		<result property="gwid" column="gwid" />
+		<result property="bd" column="bd" />
+		<result property="flr" column="flr" />
+		<result property="lct" column="lct" />
+		<result property="rt" column="rt" />
+	</resultMap>
+
+	<resultMap id="ha_result" type="ha">
+		<result property="haid" column="haid" />
+		<result property="hanm" column="hanm" />
+		<result property="hat" column="hat" />
+		<result property="hafc" column="hafc" />
+		<result property="hamf" column="hamf" />
+		<result property="rt" column="rt" />
+	</resultMap>
+
+	<resultMap id="sensor_result" type="sensor">
+		<result property="ssid" column="ssid" />
+		<result property="ssnm" column="ssnm" />
+		<result property="sst" column="sst" />
+		<result property="ssst" column="ssst" />
+		<result property="ssmf" column="ssmf" />
+		<result property="rt" column="rt" />
+	</resultMap>
+
+	<resultMap id="service_result" type="service">
+		<result property="svid" column="svid" />
+		<result property="svnm" column="svnm" />
+		<result property="svvs" column="svvs" />
+		<result property="svif" column="svif" />
+		<result property="svtp" column="svtp" />
+		<result property="ctg" column="ctg" />
+		<result property="rt" column="rt" />
+		
+	</resultMap>
+
+	<resultMap id="user_result" type="user">
+		<result property="mphnb" column="mphnb" />
+		<result property="name" column="name" />
+		<result property="afl" column="afl" />
+		<result property="ofc" column="ofc" />
+		<result property="type" column="type" />
+		<result property="crst" column="crst" />
+		<result property="crlt" column="crlt" />
+		<result property="tagid" column="tagid" />
+		<result property="gwid" column="gwid" />
+		<result property="rt" column="rt" />
+	</resultMap>
+	
+	<resultMap id="phone_result" type="phone">
+		<result property="phnb" column="phnb" />
+		<result property="lat" column="lat" />
+		<result property="lng" column="lng" />
+		<result property="addr" column="addr" />
+		<result property="phst" column="phst" />
+		<result property="sdst" column="sdst" />
+		<result property="rt" column="rt" />
+		<result property="mphnb" column="mphnb" />
+	</resultMap>
+	
+	<resultMap id="schedule_result" type="schedule">
+		<result property="scdid" column="scdid" />
+		<result property="scdtl" column="scdtl" />
+		<result property="scddt" column="scddt" />
+		<result property="scdtm" column="scdtm" />
+		<result property="scdmm" column="scdmm" />
+		<result property="rt" column="rt" />
+		<result property="mphnb" column="mphnb" />
+	</resultMap>
+
+	<!-- insert -->
+	<insert id="insert_gateway" parameterType="hashmap" useGeneratedKeys="true" keyProperty="id">
+		INSERT INTO gateway (
+			gwid, 
+			bd,
+			flr,
+			lct)
+		VALUES (
+			#{gwid},
+			#{bd},
+			#{flr},
+			#{lct})
+	</insert>
+
+	<insert id="insert_homeappliance" parameterType="hashmap" useGeneratedKeys="true" keyProperty="id">
+		INSERT INTO homeappliance (
+			haid,
+			hanm,
+			hat,
+			hafc,
+			hamf,
+			gwid)
+		VALUES (
+			#{haid},
+			#{hanm},
+			#{hat},
+			#{hafc},
+			#{hamf},
+			#{gwid})
+	</insert>
+
+	<insert id="insert_sensor" parameterType="hashmap" useGeneratedKeys="true" keyProperty="id">
+		INSERT INTO sensor (
+			ssid,
+			ssnm,
+			sst,
+			ssst,
+			ssmf,
+			gwid)
+		VALUES (
+			#{ssid},
+			#{ssnm},
+			#{sst},
+			#{ssst},
+			#{ssmf},
+			#{gwid})
+	</insert>
+
+
+	<insert id="insert_user" parameterType="hashmap" useGeneratedKeys="true" keyProperty="id">
+		INSERT INTO user (
+			mphnb,
+			name,
+			afl,
+			ofc,
+			type,
+			tagid,
+			gwid)
+		VALUES (
+			#{mphnb},
+			#{name},
+			#{afl},
+			#{ofc},
+			#{type},
+			#{tagid},
+			#{gwid})
+	</insert>
+	
+	<insert id="insert_phone" parameterType="hashmap" useGeneratedKeys="true" keyProperty="id">
+		INSERT INTO phone (
+			phnb,
+			lat,
+			lng,
+			addr,
+			phst,
+			sdst,
+			mphnb)
+		VALUES (
+			#{phnb},
+			#{lat},
+			#{lng},
+			#{addr},
+			#{phst},
+			#{sdst},
+			#{mphnb})
+	</insert>
+		
+	<insert id="insert_schedule" parameterType="hashmap" useGeneratedKeys="true" keyProperty="id">
+		INSERT INTO schedule (
+			scdtl,
+			scddt,
+			scdtm,
+			scdmm,
+			mphnb)
+		VALUES (
+			#{scdtl},
+			#{scddt},
+			#{scdtm},
+			#{scdmm},
+			#{mphnb})
+	</insert>
+	
+	<insert id="insert_service" parameterType="hashmap" useGeneratedKeys="true" keyProperty="id">
+		INSERT INTO service (
+			svid,
+			svnm,
+			svtp,
+			svvs,
+			svif,
+			ctg,
+			gwid)
+		VALUES (
+			#{svid},
+			#{svnm},
+			#{svtp},
+			#{svvs},
+			#{svif},
+			#{ctg},
+			#{gwid})
+	</insert>
+	
+	<!-- select -->
+	<select id="select_gateway" parameterType="hashmap" resultMap="gw_result">
+		SELECT * FROM gateway WHERE gwid = #{gwid}
+	</select>
+	
+	<select id="select_schedule" parameterType="hashmap" resultMap="schedule_result">
+		SELECT * FROM schedule WHERE mphnb = #{mphnb}
+	</select>
+	
+	<select id="select_latest_phone" parameterType="hashmap" resultMap="phone_result">
+		SELECT * FROM table WHERE mphnb = #{mphnb} ORDER BY rt DESC
+	</select>
+	
+	<!-- delete -->
+	<delete id="delete_schedule" parameterType="hashmap">
+		DELETE FROM schedule WHERE scdid = #{scdid}
+	</delete>
+
+</mapper>

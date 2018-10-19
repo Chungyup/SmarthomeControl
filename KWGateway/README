@@ -1,0 +1,114 @@
+====================================================================================
+
+								KWGateway 프로그램 요약
+							
+====================================================================================
+1. MAIN
+
+	# package:
+		kr.kw.main
+		
+	# key class:
+		KWGatewat.java
+			- 시작 프로그램
+			
+2. PROGRAM CONTROLLER
+
+	# package:
+		kr.kw.controller
+		
+	# key class:
+		KWProcess.java
+			- 프로그램 전체 흐름을 제어
+			
+-------------------------------------------------------------------------------------
+3. USER
+
+	# package:
+		kr.kw.user
+
+-------------------------------------------------------------------------------------
+4. SERVICE
+
+	# package:
+		kr.kw.service
+
+-------------------------------------------------------------------------------------
+5. DEVICE (SENSOR, HOME APPLIANCE)
+
+	# packages : 
+		kr.kw.device
+		kr.kw.device.maxfor.item
+		kr.kw.device.maxfor.packet
+		kr.kw.device.utas.function
+		kr.kw.device.utas.item
+		kr.kw.device.utas.packet
+
+	# key classes:
+		MaxforPacket.java
+			- 맥스포 패킷 관리 및 제어
+			- 패킷은 버퍼에 순환적으로 관리
+			- 시작 주소, 마지막 주소, payload 길이를 통해 패킷 추출		
+
+		UtasPacket.java
+			- 유타스 패킷 관리 및 제어
+			- 정해진 규격으로 패킷 생성
+			- 패킷은 device, deviceNo으로 구분
+			
+		UtasReqManager.java
+			- 유타스 응답 메시지 확인을 위한 요청 메시지 임시 저장소
+			- 응답패킷이 실제 요청한 패킷에 대한 응답한 패킷인지 확인
+			
+-------------------------------------------------------------------------------------
+6. CONNECT
+
+	# packages:
+		kr.kw.connect
+		kr.kw.connect.receiver
+		
+	# lib.:
+		KETISock.jar
+		
+		
+	# key classes:
+		MaxforEnvMsgReceiver.java
+			- 맥스포 센서 정보(Noti.)를 받음
+		
+		UtasCtrMsgReceiver.java
+			- 유타스 가전기기 제어 응답(Res.)을 받음
+
+-------------------------------------------------------------------------------------
+7. DATABASE
+
+	# package:
+		kr.kw.database
+		
+	# lib.:
+		mybatis
+
+-------------------------------------------------------------------------------------
+8. WORKING MEMORY
+
+	# package:
+		kr.kw.manager
+		
+	# key classes:
+		MaxforSensorManager.java
+			- 맥스포 센서 장치를 관리
+			
+		UtasHomeApplianceManager.java
+			- 유타스 가전기기를 관리
+		
+-------------------------------------------------------------------------------------
+9. AI
+	# package:
+		kr.kw.ai
+		
+	# key classes:
+		ContextAcquisition.java
+			- 필요한 정보를 가져옴
+			
+		ContextAwareness.java
+			- J48(WEKA)라이브러리를 사용
+
+====================================================================================
